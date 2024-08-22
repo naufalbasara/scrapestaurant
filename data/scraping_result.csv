@@ -1,0 +1,866 @@
+,Restaurant Name,Category,Rating,Price,Address,Restaurant Detail Link
+0,Onni House,Wonokromo | Kafe,4.47 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Opak No. 56, Wonokromo, Surabaya",/restaurants/surabaya/onni-house-wonokromo
+1,Kollabora Coffee Geeks and Workspace,Dukuh Pakis | Kafe,4.80 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Kupang Indah No. 51, Dukuh Pakis, Surabaya",/restaurants/surabaya/kollabora-coffee-geeks-and-workspace-dukuh-pakis
+2,Redback Specialty Coffee,Dukuh Pakis | Kafe,4.37 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Golf Graha Famili Blok K, Dukuh Pakis, Surabaya",/restaurants/surabaya/redback-specialty-coffee-dukuh-pakis-2
+3,Locaahands,Wonokromo | Kafe,4.44 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Opak No. 39, Wonokromo, Surabaya",/restaurants/surabaya/locaahands-wonokromo
+4,Gyu Kaku,Tegalsari | Jepang,4.62 /5,Di atas Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/gyu-kaku-tegalsari
+5,Garasi Ergo,Wiyung | Kafe,4.44 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Bintang Graha Famili X No. 2, Wiyung, Surabaya",/restaurants/surabaya/garasi-ergo-wiyung
+6,Lime Restaurant - Four Points By Sheraton Hotel,Tegalsari | Barat,4.69 /5,Di atas Rp. 200.000 /orang,"Jl. Embong Malang, Tegalsari, Surabaya",/restaurants/surabaya/lime-restaurant-four-points-by-sheraton-hotel-tegalsari
+7,Djournal Coffee,Tegalsari | Kafe,4.29 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/djournal-coffee-tegalsari
+8,TuttoBono Ristorante,Dukuh Pakis | Italia,4.77 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Bukit Darmo Boulevard No. 9, Dukuh Pakis, Surabaya",/restaurants/surabaya/tuttobono-ristorante-dukuh-pakis
+9,Yoshinoya,Genteng | Jepang,4.32 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Pemuda, Genteng, Surabaya",/restaurants/surabaya/yoshinoya-genteng
+10,Breve,Wonokromo | Kafe,4.29 /5,Di bawah Rp. 50.000 /orang,"Jl. Sambas No. 20, Wonokromo, Surabaya",/restaurants/surabaya/breve-wonokromo
+11,Urban Wagyu,Wonokromo | Barat,4.30 /5,Di atas Rp. 200.000 /orang,"Jl. Opak No. 50, Wonokromo, Surabaya",/restaurants/surabaya/urban-wagyu-wonokromo
+12,Boncafe,Mulyorejo | Barat,4.37 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/boncafe-mulyorejo
+13,Starbucks,Lakarsantri | Kafe,4.42 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Telaga Golf Road U1 No. 33, Lakarsantri, Surabaya",/restaurants/surabaya/starbucks-lakarsantri
+14,De Mandailing Cafe N Eatery,Wonocolo | Kafe,4.18 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Jemursari No. 71, Wonocolo, Surabaya",/restaurants/surabaya/de-mandailing-cafe-n-eatery-wonocolo
+15,KOI The,Wiyung | Kafe,4.25 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/koi-the-wiyung
+16,Holycow! STEAKHOUSE by Chef Afit,Wonokromo | Barat,4.37 /5,Di atas Rp. 200.000 /orang,"Jl. Hayam Wuruk No. 6, Wonokromo, Surabaya",/restaurants/surabaya/holycow-steakhouse-by-chef-afit-wonokromo
+17,Corica Pastries,Gubeng | Kafe,4.47 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Biliton, Gubeng, Surabaya",/restaurants/surabaya/corica-pastries-gubeng
+18,Nordic Coffee,Sawahan | Kafe,4.32 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Tidar No. 67A, Sawahan, Surabaya",/restaurants/surabaya/nordic-coffee-sawahan
+19,Layar Seafood,Dukuh Pakis | Indonesia,4.45 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Abdul Wahab Siamin No. 216, Dukuh Pakis, Surabaya",/restaurants/surabaya/layar-seafood-dukuh-pakis
+20,Pavilion Restaurant - JW Marriott Hotel Surabaya,Tegalsari | Barat,4.57 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Embong Malang No. 85 - 89, Tegalsari, Surabaya",/restaurants/surabaya/pavilion-restaurant-jw-marriott-hotel-surabaya-tegalsari
+21,Chao Phraya,Tegalsari | Thailand,4.22 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Trunojoyo No. 74, Tegalsari, Surabaya",/restaurants/surabaya/chao-phraya-tegalsari
+22,Bebini Gelati,Gubeng | Kafe,4.24 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada No. 183 - 185, Gubeng, Surabaya",/restaurants/surabaya/bebini-gelati-gubeng
+23,Jack & John,Wiyung | Indonesia,4.24 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/jack-dan-john-wiyung-2
+24,Carpentier Kitchen,Tegalsari | Kafe,4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Untung Suropati No. 83, Tegalsari, Surabaya",/restaurants/surabaya/carpentier-kitchen-tegalsari
+25,Marugame Udon,Tegalsari | Jepang,4.17 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/marugame-udon-tegalsari
+26,Maison Feerie,Wiyung | Toko Roti dan Kue,4.31 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/maison-feerie-wiyung
+27,Holycow! STEAKHOUSE by Chef Afit,Tegalsari | Barat,4.35 /5,Di atas Rp. 200.000 /orang,"Jl. Pregolan Bunder No. 44, Tegalsari, Surabaya",/restaurants/surabaya/holycow-steakhouse-by-chef-afit-tegalsari-2
+28,Waroeng Pati Surabaya - Deka Hotel,Dukuh Pakis | Indonesia,4.57 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. HR Muhammad No. 24, Dukuh Pakis, Surabaya",/restaurants/surabaya/waroeng-pati-surabaya-deka-hotel-dukuh-pakis
+29,Cafe Bromo - Sheraton Surabaya Hotel & Towers,Tegalsari,4.85 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Embong Malang No. 25 - 31, Tegalsari, Surabaya",/restaurants/surabaya/cafe-bromo-sheraton-surabaya-hotel-dan-towers-tegalsari
+30,Pancious,Wiyung | Italia,4.23 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/pancious-wiyung
+31,Marugame Udon,Wiyung | Jepang,4.18 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/marugame-udon-wiyung
+32,Es Puter Pak Min,Manyar | Es Krim,4.34 /5,Di bawah Rp. 50.000 /orang,"Jl. Manyar Kertoarjo V No. 35, Manyar, Surabaya",/restaurants/surabaya/es-puter-pak-min-manyar
+33,Papercup Coffee,Kayoon | Kafe,4.15 /5,Di bawah Rp. 50.000 /orang,"Jl. Kayoon No. 48, Kayoon, Surabaya",/restaurants/surabaya/papercup-coffee-kayoon
+34,Haidilao Hot Pot,Wiyung | China,4.51 /5,Di atas Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/haidilao-hot-pot-wiyung
+35,Sushi Tei,Mulyorejo | Jepang,4.17 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/sushi-tei-mulyorejo
+36,Kizahashi Restaurant - Bumi Surabaya City Resort,Genteng | Jepang,4.64 /5,Di atas Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 106 - 128, Genteng, Surabaya",/restaurants/surabaya/kizahashi-restaurant-bumi-surabaya-city-resort-genteng
+37,Spice Restaurant - Oakwood Hotel & Residence Surabaya,"Kertajaya | Barat,Italia,Indonesia",4.49 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Kertajaya Indah No. 79, Kertajaya, Surabaya",/restaurants/surabaya/spice-restaurant-oakwood-hotel-dan-residence-surabaya-kertajaya
+38,Starbucks,Mulyorejo | Kafe,4.21 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/starbucks-mulyorejo-2
+39,Crunchaus Salads,Wiyung,4.17 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/crunchaus-salads-wiyung
+40,Playroast,Ngagel | Kafe,4.21 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Ngagel Jaya No. 40, Ngagel, Surabaya",/restaurants/surabaya/playroast-ngagel
+41,Bakmi Jogja Trunojoyo,Tegalsari | Indonesia,4.16 /5,Di bawah Rp. 50.000 /orang,"Jl. Tegalsari No. 47, Tegalsari, Surabaya",/restaurants/surabaya/bakmi-jogja-trunojoyo-tegalsari
+42,Boncafe,Manyar | Barat,4.31 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Manyar Kertoarjo V No. 1 - 5, Manyar, Surabaya",/restaurants/surabaya/boncafe-manyar
+43,Kava Restaurant - Fairfield by Marriott Surabaya,"Dukuh Pakis | Barat,Indonesia",4.51 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Mayjen Sungkono No. 178, Dukuh Pakis, Surabaya",/restaurants/surabaya/kava-restaurant-fairfield-by-marriott-surabaya-dukuh-pakis
+44,Le Cafe Gourmand,Tegalsari | Kafe,4.28 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Pregolan No. 2, Tegalsari, Surabaya",/restaurants/surabaya/le-cafe-gourmand-tegalsari
+45,Typica Kopi,Mulyorejo | Kafe,4.19 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kalisari Utara I, Mulyorejo, Surabaya",/restaurants/surabaya/typica-kopi-mulyorejo
+46,D'Jawa Cafe & Resto,Gubeng | Indonesia,4.21 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jawa No. 33, Gubeng, Surabaya",/restaurants/surabaya/d-jawa-cafe-dan-resto-gubeng
+47,De Mandailing Cafe N Eatery,Klampis | Kafe,4.05 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Klampis Jaya No. 144, Klampis, Surabaya",/restaurants/surabaya/de-mandailing-cafe-n-eatery-klampis-2
+48,BlackBarn Coffee,Tegalsari | Kafe,4.16 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Untung Suropati No. 79, Tegalsari, Surabaya",/restaurants/surabaya/blackbarn-coffee-tegalsari
+49,Dapur Cokelat,Gubeng | Toko Kue,4.23 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Biliton, Gubeng, Surabaya",/restaurants/surabaya/dapur-cokelat-gubeng
+50,Cocari,Tegalsari | Jepang,4.28 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Pajajaran No. 11, Tegalsari, Surabaya",/restaurants/surabaya/cocari-tegalsari
+51,Starbucks,Dukuh Pakis | Kafe,4.31 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Bukit Darmo Boulevard No. 9, Dukuh Pakis, Surabaya",/restaurants/surabaya/starbucks-dukuh-pakis-2
+52,Domicile,"Gubeng | Barat, Italia",4.15 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Sumatera No. 35, Gubeng, Surabaya",/restaurants/surabaya/domicile-gubeng
+53,Kunokini,Tenggilis Mejoyo | Kafe,4.03 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Prapen No. 69, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/kunokini-tenggilis-mejoyo
+54,Union,Wiyung | Barat,4.43 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/union-wiyung
+55,Cheskee,Mulyorejo | Kafe,4.11 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/cheskee-mulyorejo
+56,Le Cafe Gourmand,Dukuh Pakis | Kafe,4.13 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Bukit Darmo Boulevard, Dukuh Pakis, Surabaya",/restaurants/surabaya/le-cafe-gourmand-dukuh-pakis
+57,Maison Feerie,Tegalsari | Toko Roti dan Kue,4.08 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/maison-feerie-tegalsari-2
+58,Arumanis - Bumi Surabaya City Resort,Genteng | Indonesia,4.31 /5,Di atas Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 106 - 128, Genteng, Surabaya",/restaurants/surabaya/arumanis-bumi-surabaya-city-resort-genteng
+59,Kecut Manis,Wiyung,4.56 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/kecut-manis-wiyung
+60,Greenly,Mulyorejo,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/greenly-mulyorejo
+61,Warung Kopi Premium,Wonocolo | Kafe,4.75 /5,Di bawah Rp. 50.000 /orang,"Jl. Jemur Andayani No. 17A, Wonocolo, Surabaya",/restaurants/surabaya/warung-kopi-premium-wonocolo
+62,Visma Coffee,Tegalsari | Kafe,4.18 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Tegalsari No. 35, Tegalsari, Surabaya",/restaurants/surabaya/visma-coffee-tegalsari
+63,KOI The,Tegalsari | Kafe,4.17 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/koi-the-tegalsari-2
+64,Depot Bu Rudy,Dukuh Pakis | Indonesia,4.17 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kupang Indah No. 5, Dukuh Pakis, Surabaya",/restaurants/surabaya/depot-bu-rudy-dukuh-pakis
+65,Pempek Ny. Kamto,Sambikerep | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/pempek-ny-kamto-sambikerep
+66,Loko Cafe,Gubeng | Kafe,4.17 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Stasiun Gubeng, Gubeng, Surabaya",/restaurants/surabaya/loko-cafe-gubeng
+67,Rustic Market,Dukuh Pakis | Kafe,4.22 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Golf 1 (Lapangan Puslatpasrat), Dukuh Pakis, Surabaya",/restaurants/surabaya/rustic-market-dukuh-pakis
+68,Boncafe,Gubeng | Barat,4.15 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Gubeng No. 46, Gubeng, Surabaya",/restaurants/surabaya/boncafe-gubeng
+69,Bakerzin,Wiyung |  Barat,4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/bakerzin-wiyung
+70,Petrichor Cafe & Bistro,Manyar | Kafe,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Manyar Kerta Adi No. 93, Manyar, Surabaya",/restaurants/surabaya/petrichor-cafe-dan-bistro-manyar
+71,Parc.West,Dukuh Pakis | Kafe,4.17 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo No. 35, Dukuh Pakis, Surabaya",/restaurants/surabaya/parc-west-dukuh-pakis
+72,Senewen Time,Gayungan | Indonesia,4.14 /5,Di bawah Rp. 50.000 /orang,"Jl. Menanggal V No. 78, Gayungan, Surabaya",/restaurants/surabaya/senewen-time-gayungan
+73,Sushi Tei,Tegalsari | Jepang,4.09 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/sushi-tei-tegalsari
+74,Kartiko Heritage,Dukuh Pakis | Indonesia,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Darmo Permai I No. 45 - 47, Dukuh Pakis, Surabaya",/restaurants/surabaya/kartiko-heritage-dukuh-pakis
+75,Crunchaus Salads,Tegalsari,4.24 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat, Tegalsari, Surabaya",/restaurants/surabaya/crunchaus-salads-tegalsari
+76,Carnis,Tenggilis Mejoyo | Kafe,4.02 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Panjang Jiwo Permai No. 2B, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/carnis-tenggilis-mejoyo
+77,Warung Leko,Manyar | Indonesia,4.02 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Manyar Kertoarjo V No. 9, Manyar, Surabaya",/restaurants/surabaya/warung-leko-manyar
+78,Oh Gelato & Cafe,Gubeng | Es Krim,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Kusuma Bangsa No. 1 - 3, Gubeng, Surabaya",/restaurants/surabaya/oh-gelato-dan-cafe-gubeng
+79,Nasi Jagung Mas Ang,Sawahan | Indonesia,4.70 /5,Di bawah Rp. 50.000 /orang,"Jl. Petemon II No. 154, Sawahan, Surabaya",/restaurants/surabaya/nasi-jagung-mas-ang-sawahan
+80,Toby's Estate,Wiyung | Kafe,4.70 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/toby-s-estate-wiyung
+81,Volks Coffee,Tegalsari | Kafe,4.08 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. M.H. Thamrin No. 34, Tegalsari, Surabaya",/restaurants/surabaya/volks-coffee-tegalsari
+82,Layar Seafood,Manyar | Indonesia,4.17 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Manyar Kertoarjo No. 23 - 25, Manyar, Surabaya",/restaurants/surabaya/layar-seafood-manyar-2
+83,De Soematra 1910,"Gubeng | Barat,Italia",4.46 /5,Di atas Rp. 200.000 /orang,"Jl. Sumatera No. 75, Gubeng, Surabaya",/restaurants/surabaya/de-soematra-1910-gubeng
+84,Ejji Coffee Corner,Mulyorejo | Kafe,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalisari Utara I, Mulyorejo, Surabaya",/restaurants/surabaya/ejji-coffee-corner-mulyorejo
+85,My Story,Tegalsari | Kafe,4.11 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Pregolan No. 10, Tegalsari, Surabaya",/restaurants/surabaya/my-story-tegalsari
+86,Fusia Rajanya Nasi Timbel,Tenggilis Mejoyo | Indonesia,4.25 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Kendangsari No. 60, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/fusia-rajanya-nasi-timbel-tenggilis-mejoyo
+87,Common Grounds,Dukuh Pakis | Kafe,4.27 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Golf Graha Famili Blok I, Dukuh Pakis, Surabaya",/restaurants/surabaya/common-grounds-dukuh-pakis
+88,Nona Manis,Tegalsari | Indonesia,4.22 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/nona-manis-tegalsari
+89,Kultur Haus,Mulyorejo,4.08 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kertajaya Indah No. 79, Mulyorejo, Surabaya",/restaurants/surabaya/kultur-haus-mulyorejo
+90,Lekker Story,Wonocolo | Snack,4.48 /5,Di bawah Rp. 50.000 /orang,"Jl. Siwalankerto Timur No. 229, Wonocolo, Surabaya",/restaurants/surabaya/lekker-story-wonocolo
+91,Bentoya,Gubeng | Jepang,4.17 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Gubeng Pojok No. 1, Gubeng, Surabaya",/restaurants/surabaya/bentoya-gubeng
+92,Hanamasa,Gubeng | Jepang,4.31 /5,Di atas Rp. 200.000 /orang,"Jl. Gubeng Pojok No. 31, Gubeng, Surabaya",/restaurants/surabaya/hanamasa-gubeng
+93,The Harvest,Wonokromo | Toko Kue,4.18 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Bengawan No. 39, Wonokromo, Surabaya",/restaurants/surabaya/the-harvest-wonokromo
+94,Mitch & Elle,Dukuh Pakis,4.31 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo No. 35, Dukuh Pakis, Surabaya",/restaurants/surabaya/mitch-dan-elle-dukuh-pakis
+95,Restoran Sederhana SA,Tegalsari | Indonesia,4.48 /5,Di bawah Rp. 50.000 /orang,"Jl. Kombes Pol. M. Duryat No. 19 - 21, Tegalsari, Surabaya",/restaurants/surabaya/restoran-sederhana-sa-tegalsari
+96,Bakmi GM,Dukuh Pakis | Indonesia,4.02 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/bakmi-gm-dukuh-pakis
+97,The Gallery - Hotel Ciputra World,"Dukuh Pakis | Indonesia,Barat,Jepang",4.65 /5,Di atas Rp. 200.000 /orang,"Jl. Mayjen Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/the-gallery-hotel-ciputra-world-dukuh-pakis
+98,Aps3 Social Hub - Kampi Hotel,Genteng | Kafe,4.24 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Taman Apsari No. 3 - 5, Genteng, Surabaya",/restaurants/surabaya/aps3-social-hub-kampi-hotel-genteng
+99,Jamoo - Hotel Shangri-La Surabaya,Dukuh Pakis | Indonesia,4.87 /5,Di atas Rp. 200.000 /orang,"Jl. Mayjen Sungkono No. 120, Dukuh Pakis, Surabaya",/restaurants/surabaya/jamoo-hotel-shangri-la-surabaya-dukuh-pakis-2
+100,Zangrandi Ice Cream,Genteng | Kafe,4.02 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Yos Sudarso No. 15, Genteng, Surabaya",/restaurants/surabaya/zangrandi-ice-cream-genteng
+101,Pancious,Dukuh Pakis | Italia,4.07 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/pancious-dukuh-pakis
+102,Starbucks,Tegalsari | Kafe,4.15 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/starbucks-tegalsari-3
+103,Nyah Tewel,Sambikerep | Indonesia,4.12 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puri Widya Kencana Blok J1 No. 28, Sambikerep, Surabaya",/restaurants/surabaya/nyah-tewel-sambikerep
+104,The People's Cafe,Tegalsari | Kafe,4.09 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/the-people-s-cafe-tegalsari
+105,DS Bistro,Sambikerep | Barat,4.30 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/ds-bistro-sambikerep
+106,Steak 21,Tegalsari | Barat,4.04 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/steak-21-tegalsari
+107,Nam Heong,Wiyung | China,4.13 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/nam-heong-wiyung
+108,Tetsujin,Tegalsari | Jepang,4.07 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Pregolan No. 17, Tegalsari, Surabaya",/restaurants/surabaya/tetsujin-tegalsari
+109,Soto Kudus Kedai Taman,Gayungan | Indonesia,4.03 /5,Di bawah Rp. 50.000 /orang,"Jl. Gayungsari Timur No. 7, Gayungan, Surabaya",/restaurants/surabaya/soto-kudus-kedai-taman-gayungan
+110,Haagen - Dazs,Mulyorejo | Es Krim,4.22 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/haagen-dazs-mulyorejo-1
+111,De Mandailing Cafe N Eatery,Sukomanunggal | Kafe,4.02 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Bukit Darmo Golf No. 1G, Sukomanunggal, Surabaya",/restaurants/surabaya/de-mandailing-cafe-n-eatery-sukomanunggal
+112,Thirty Three Brew,Wonokromo | Kafe,4.12 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Opak No. 45, Wonokromo, Surabaya",/restaurants/surabaya/thirty-three-brew-wonokromo
+113,Brain Coffee,Wonokromo | Kafe,4.37 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Wonokromo Tangkis No. 52, Wonokromo, Surabaya",/restaurants/surabaya/brain-coffee-wonokromo
+114,Madame Chang,Manyar,4.12 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Manyar Kertoarjo No. 43, Manyar, Surabaya",/restaurants/surabaya/madame-chang-manyar
+115,Tampan Mie & Coffee,Rungkut | Kafe,4.25 /5,Di bawah Rp. 50.000 /orang,"Jl. Rungkut Madya (Depan UPN), Rungkut, Surabaya",/restaurants/surabaya/tampan-mie-dan-coffee-rungkut
+116,Siam Thai Authentic Taste,Sukomanunggal | Thailand,4.12 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Kupang Baru No. 74, Sukomanunggal, Surabaya",/restaurants/surabaya/siam-thai-authentic-taste-sukomanunggal
+117,The Fak's,Pakal | Kafe,4.65 /5,Di bawah Rp. 50.000 /orang,"Jl. Northwest Boulevard Blok NV1 No. 18, Pakal, Surabaya",/restaurants/surabaya/the-fak-s-pakal
+118,Sour Sally,Tegalsari | Yoghurt,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/sour-sally-tegalsari
+119,Depot Mentari,Ngagel | Indonesia,4.44 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Madya No. 2B, Ngagel, Surabaya",/restaurants/surabaya/depot-mentari-ngagel
+120,Starbucks,Wiyung | Kafe,4.09 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/starbucks-wiyung-3
+121,Boncafe,Dukuh Pakis | Barat,4.07 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Bukit Darmo Boulevard, Dukuh Pakis, Surabaya",/restaurants/surabaya/boncafe-dukuh-pakis-2
+122,Yamagoya Ramen,Tegalsari | Jepang,4.05 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/yamagoya-ramen-tegalsari
+123,Yoshinoya,Dukuh Pakis | Jepang,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Bukit Darmo Boulevard No. 9, Dukuh Pakis, Surabaya",/restaurants/surabaya/yoshinoya-dukuh-pakis
+124,41 Strip Club,Tenggilis Mejoyo | Kafe,4.55 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Tenggilis Barat I No. 21, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/41-strip-club-tenggilis-mejoyo
+125,Zybrick,Wonocolo | Kafe,4.02 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Siwalankerto No. 120B, Wonocolo, Surabaya",/restaurants/surabaya/zybrick-wonocolo
+126,Djournal Coffee,Mulyorejo | Kafe,4.07 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/djournal-coffee-mulyorejo
+127,Larazeta Restaurant & Gallery,Gubeng | Arab/Timur Tengah,4.23 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Biliton No. 27, Gubeng, Surabaya",/restaurants/surabaya/larazeta-restaurant-dan-gallery-gubeng
+128,Kopi Pak Budi,Dukuh Pakis | Minuman,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Sungkono, Dukuh Pakis, Surabaya",/restaurants/surabaya/kopi-pak-budi-dukuh-pakis
+129,Frut-O Gelato,Tegalsari | Es Krim,4.16 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/frut-o-gelato-tegalsari
+130,Gerobak Ayam Geprek,Wiyung | Indonesia,4.18 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/gerobak-ayam-geprek-wiyung
+131,The Neighbors Cafe,Sukomanunggal | Kafe,4.06 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Darmo Harapan IX Blok EN No. 12, Sukomanunggal, Surabaya",/restaurants/surabaya/the-neighbors-cafe-sukomanunggal
+132,Kale and Kin,Dukuh Pakis | Salad,4.33 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/kale-and-kin-dukuh-pakis
+133,Five Spice Eatery and Coffee,Sambikerep | Kafe,4.29 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Internasional, Sambikerep, Surabaya",/restaurants/surabaya/five-spice-eatery-and-coffee-sambikerep
+134,Bon Ami Bakery,Wonocolo | Toko Roti dan Kue,4.55 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Jemursari No. 216, Wonocolo, Surabaya",/restaurants/surabaya/bon-ami-bakery-wonocolo
+135,Sari Laut Kapasan,Simokerto | Indonesia,4.06 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kapasan No. 27, Simokerto, Surabaya",/restaurants/surabaya/sari-laut-kapasan-simokerto
+136,Frut-O Gelato,Dukuh Pakis | Es Krim,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/frut-o-gelato-dukuh-pakis
+137,Many Pany Pancake & Waffle,Genteng | Dessert,4.04 /5,Di bawah Rp. 50.000 /orang,"Jl. Slamet No. 16, Genteng, Surabaya",/restaurants/surabaya/many-pany-pancake-dan-waffle-genteng
+138,Kimukatsu,Mulyorejo | Jepang,4.14 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/kimukatsu-mulyorejo
+139,Excelso,Mulyorejo | Kafe,4.33 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/excelso-mulyorejo-2
+140,Option Billiard & Cafe,Lakarsantri | Kafe,4.27 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Bukit Golf Tengah Blok D1 No. 27, Lakarsantri, Surabaya",/restaurants/surabaya/option-billiard-dan-cafe-lakarsantri
+141,Starbucks,Dukuh Pakis,4.05 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/starbucks-dukuh-pakis
+142,Starbucks,Gubeng | Kafe,4.09 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Gubeng Pojok No. 1, Gubeng, Surabaya",/restaurants/surabaya/starbucks-gubeng
+143,Urban Latte,Klampis | Kafe,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Klampis Jaya No. 37B, Klampis, Surabaya",/restaurants/surabaya/urban-latte-klampis
+144,Shihlin,Tegalsari | Snack,4.28 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/shihlin-tegalsari-3
+145,Cafe Jalan Korea,Wonocolo | Korea,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Jemursari No. 76 Blok D No. 5 (Belakang Holland Bakery), Wonocolo, Surabaya",/restaurants/surabaya/cafe-jalan-korea-wonocolo
+146,Warung Sego Maduro Suramadu,Bubutan | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalibutuh No. 6, Bubutan, Surabaya",/restaurants/surabaya/warung-sego-maduro-suramadu-bubutan-1
+147,Fish & Co.,Wiyung | Barat,4.29 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/fish-dan-co-wiyung
+148,Pizza E Birra,Dukuh Pakis | Italia,4.01 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/pizza-e-birra-dukuh-pakis
+149,Dream of Kahyangan Art Resto,Lakarsantri | Indonesia,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puri Widya Kencana Blok LL No. 5, Lakarsantri, Surabaya",/restaurants/surabaya/dream-of-kahyangan-art-resto-lakarsantri
+150,La Ribs,Wiyung | Barat,4.23 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/la-ribs-wiyung
+151,Soto Podjok Kediri,Lakarsantri | Indonesia,4.16 /5,Di bawah Rp. 50.000 /orang,"Jl. Bukit Telaga Golf Blok TC3 No. 30, Lakarsantri, Surabaya",/restaurants/surabaya/soto-podjok-kediri-lakarsantri
+152,Ludic,Tenggilis Mejoyo | Kafe,4.13 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Kendangsari No. 97, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/ludic-tenggilis-mejoyo
+153,Starbucks,Rungkut | Kafe,4.11 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 351, Rungkut, Surabaya",/restaurants/surabaya/starbucks-rungkut
+154,Soto Banjar Pak Kumisss,Ngagel | Indonesia,4.32 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Jaya Barat No. 26, Ngagel, Surabaya",/restaurants/surabaya/soto-banjar-pak-kumisss-ngagel
+155,Teazzi,Wiyung | Minuman,4.55 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/teazzi-wiyung
+156,Cincau Bistro,Dukuh Pakis | Kafe,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/cincau-bistro-dukuh-pakis
+157,Kyoushi,Wiyung | Jepang,4.67 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/kyoushi-wiyung
+158,Excelso,Gubeng | Kafe,4.08 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Biliton No. 77, Gubeng, Surabaya",/restaurants/surabaya/excelso-gubeng-1
+159,De Mier,Wonokromo | Kafe,4.32 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jambi No. 35, Wonokromo, Surabaya",/restaurants/surabaya/de-mier-wonokromo
+160,Kopi Soe,Mulyorejo | Kafe,4.36 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Mulyosari No. 7A, Mulyorejo, Surabaya",/restaurants/surabaya/kopi-soe-mulyorejo
+161,Kakkoii,Wonokromo | Jepang,4.45 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Adityawarman No. 42A - C, Wonokromo, Surabaya",/restaurants/surabaya/kakkoii-wonokromo
+162,Housaku Sushi & Bento,Sambikerep | Jepang,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Taman Puspa Raya, Sambikerep, Surabaya",/restaurants/surabaya/housaku-sushi-dan-bento-sambikerep-2
+163,Zenbu,Wiyung | Jepang,4.04 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/zenbu-wiyung
+164,Co.choc,Tenggilis Mejoyo | Minuman,4.15 /5,Di bawah Rp. 50.000 /orang,"Jl. Tenggilis Mejoyo Blok AI No. 33 - 34, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/co-choc-tenggilis-mejoyo
+165,Pukul Satu Kopi,Gubeng | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmawangsa No. 142A, Gubeng, Surabaya",/restaurants/surabaya/pukul-satu-kopi-gubeng
+166,Tous Les Jours,Mulyorejo | Toko Roti dan Kue,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/tous-les-jours-mulyorejo
+167,Verte Green Eats & Coffee,Wonokromo | Kafe,4.36 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jambi No. 47, Wonokromo, Surabaya",/restaurants/surabaya/verte-green-eats-dan-coffee-wonokromo-2
+168,Kameyama,Dukuh Pakis | Kafe,4.14 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Darmo Permai III No. 88, Dukuh Pakis, Surabaya",/restaurants/surabaya/kameyama-dukuh-pakis-2
+169,Ayam Keprabon Express,Sambikerep | Indonesia,4.67 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/ayam-keprabon-express-sambikerep
+170,Steak Hut,Dukuh Pakis | Barat,4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Bukit Darmo Boulevard No. 8P, Dukuh Pakis, Surabaya",/restaurants/surabaya/steak-hut-dukuh-pakis
+171,Nhu Nhu Lemongrass,Wiyung | Minuman,4.32 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/nhu-nhu-lemongrass-wiyung
+172,Bon Ami Restaurant & Bakery,"Tegalsari | Indonesia,Barat,Toko Roti dan Kue",4.07 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Dr. Soetomo No. 94, Tegalsari, Surabaya",/restaurants/surabaya/bon-ami-restaurant-dan-bakery-tegalsari-2
+173,Pangsit Tenda Biru,Kayoon | Indonesia,4.09 /5,Di bawah Rp. 50.000 /orang,"Jl. Kayoon No. 24, Kayoon, Surabaya",/restaurants/surabaya/pangsit-tenda-biru-kayoon
+174,White House,Gubeng | Kafe,4.09 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Sulawesi No. 61, Gubeng, Surabaya",/restaurants/surabaya/white-house-gubeng
+175,Daun Lada,Tegalsari | Indonesia,4.04 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/daun-lada-tegalsari-2
+176,Kebab Layali,Ampel | Arab/Timur Tengah,4.50 /5,Di bawah Rp. 50.000 /orang,"Jl. KH. Mas Mansyur No. 160, Ampel, Surabaya",/restaurants/surabaya/kebab-layali-ampel
+177,Ikan Bakar Cianjur,Manyar | Indonesia,4.45 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Manyar Kertoarjo V No. 44 - 48, Manyar, Surabaya",/restaurants/surabaya/ikan-bakar-cianjur-manyar
+178,Alltime Buns,Tegalsari | Barat,4.08 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Tunjungan No. 26, Tegalsari, Surabaya",/restaurants/surabaya/alltime-buns-tegalsari
+179,Excelso,Tegalsari | Kafe,4.14 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/excelso-tegalsari-4
+180,Pizza Marzano,Wiyung | Italia,4.17 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/pizza-marzano-wiyung
+181,Ichiban Sushi,Tegalsari | Jepang,4.08 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/ichiban-sushi-tegalsari
+182,Burger King,Tenggilis Mejoyo | Barat,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Jemursari No. 260, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/burger-king-tenggilis-mejoyo
+183,Cincau Station,Dukuh Pakis | Minuman,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/cincau-station-dukuh-pakis
+184,Bubur Ayam Priangan Spensix,Gubeng | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Gubeng No. 66, Gubeng, Surabaya",/restaurants/surabaya/bubur-ayam-priangan-spensix-gubeng-2
+185,Kokumi,Sambikerep | Kafe,4.02 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/kokumi-sambikerep
+186,X.O Suki,Tegalsari | China,4.24 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/x-o-suki-tegalsari-2
+187,Tana Toraja,Tegalsari | Kafe,4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/tana-toraja-tegalsari
+188,Starbucks,Mulyorejo | Kafe,4.17 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Laguna KJW Putih Tambak, Mulyorejo, Surabaya",/restaurants/surabaya/starbucks-mulyorejo
+189,Cincau Bistro,Wiyung | Minuman,4.04 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/cincau-bistro-wiyung
+190,Boncafe,Dukuh Pakis | Barat,4.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Kupang Indah No. 1, Dukuh Pakis, Surabaya",/restaurants/surabaya/boncafe-dukuh-pakis
+191,Starbucks,Tegalsari | Kafe,4.04 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/starbucks-tegalsari-2
+192,Martabak Mafia,Dukuh Pakis | Indonesia,4.53 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/martabak-mafia-dukuh-pakis
+193,Texas Chicken,Wiyung,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/texas-chicken-wiyung-3
+194,Bima Chinese Cuisine,Manyar | China,4.14 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Manyar Kertoarjo No. 77, Manyar, Surabaya",/restaurants/surabaya/bima-chinese-cuisine-manyar
+195,Baskin Robbins,Tegalsari | Es Krim,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/baskin-robbins-tegalsari
+196,Pizza Hut Delivery (PHD),Tegalsari,4.02 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kedungdoro No. 201A, Tegalsari, Surabaya",/restaurants/surabaya/pizza-hut-delivery-phd-tegalsari
+197,Geprek 100,Dukuh Pakis | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/geprek-100-dukuh-pakis
+198,Es Kacang Ijo Abunawas,Tambaksari | Dessert,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dukuh Setro I No. 1, Tambaksari, Surabaya",/restaurants/surabaya/es-kacang-ijo-abunawas-tambaksari
+199,Bless Bakery,Rungkut | Toko Roti dan Kue,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Rungkut Mapan Blok FA No. 1, Rungkut, Surabaya",/restaurants/surabaya/bless-bakery-rungkut
+200,Moi Garden,Manyar | China,5.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Manyar Kertoarjo V No. 54 - 56, Manyar, Surabaya",/restaurants/surabaya/moi-garden-manyar
+201,Tong Tji Tea House,Tegalsari | Indonesia,4.17 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/tong-tji-tea-house-tegalsari
+202,Rawon Bumas Pecel Tumpang,Dukuh Pakis | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Villa Bukit Mas, Dukuh Pakis, Surabaya",/restaurants/surabaya/rawon-bumas-pecel-tumpang-dukuh-pakis
+203,Warung M. Nasir,Ampel | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. KH. Mas Mansyur, Ampel, Surabaya",/restaurants/surabaya/warung-m-nasir-ampel
+204,Brassery,Gubeng | Kafe,4.11 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Gubeng No. 58, Gubeng, Surabaya",/restaurants/surabaya/brassery-gubeng
+205,Bakwan P. Iwan Trunojoyo,Sawahan | Indonesia,4.09 /5,Di bawah Rp. 50.000 /orang,"Jl. Arjuno No. 122, Sawahan, Surabaya",/restaurants/surabaya/bakwan-p-iwan-trunojoyo-sawahan-2
+206,Tous Les Jours,Wiyung | Toko Roti dan Kue,4.14 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/tous-les-jours-wiyung
+207,Kopi Soe,Sambikerep | Kafe,4.24 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/kopi-soe-sambikerep
+208,White Cone,Tegalsari | Es Krim,4.04 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat, Tegalsari, Surabaya",/restaurants/surabaya/white-cone-tegalsari
+209,Pizza Hut,Tenggilis Mejoyo,4.05 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Jemursari No. 136, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/pizza-hut-tenggilis-mejoyo
+210,Ropopang,Mulyorejo | Indonesia,4.35 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Blok F No. 223, Mulyorejo, Surabaya",/restaurants/surabaya/ropopang-mulyorejo
+211,ah-miong,Sambikerep | Kafe,4.53 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/ah-miong-sambikerep
+212,The Cafe - Java Paragon Hotel,"Dukuh Pakis | Indonesia, Barat",4.53 /5,Di atas Rp. 200.000 /orang,"Jl. Mayjen Sungkono No. 101 - 103, Dukuh Pakis, Surabaya",/restaurants/surabaya/the-cafe-java-paragon-hotel-dukuh-pakis
+213,Bubur Ayam Jakarta Mang Endut,Tegalsari | Indonesia,4.05 /5,Di bawah Rp. 50.000 /orang,"Jl. Kedungsari No. 34, Tegalsari, Surabaya",/restaurants/surabaya/bubur-ayam-jakarta-mang-endut-tegalsari
+214,Mashu,Wonokromo | Jepang,4.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Musi No. 35, Wonokromo, Surabaya",/restaurants/surabaya/mashu-wonokromo
+215,Republika Cafe & Resto,Rungkut | Kafe,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 338, Rungkut, Surabaya",/restaurants/surabaya/republika-cafe-dan-resto-rungkut
+216,Kedai Ketan Punel,Wonokromo | Indonesia,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Darmo No. 116, Wonokromo, Surabaya",/restaurants/surabaya/kedai-ketan-punel-wonokromo
+217,Tosca,Gubeng | Kafe,4.14 /5,Di bawah Rp. 50.000 /orang,"Jl. Gubeng Kertajaya V C No. 56, Gubeng, Surabaya",/restaurants/surabaya/tosca-gubeng
+218,Warung Bule,Sambikerep | Kafe,4.14 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/warung-bule-sambikerep
+219,Genki Sushi,Wiyung | Jepang,4.35 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/genki-sushi-wiyung
+220,Velluto Gelato,Wiyung | Es Krim,4.35 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/velluto-gelato-wiyung
+221,Sendoki,Gubeng | Jepang,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada I No. 25B, Gubeng, Surabaya",/restaurants/surabaya/sendoki-gubeng
+222,Mama Noi,Sambikerep | Thailand,4.02 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puri Widya Kencana Blok K2 No. 1, Sambikerep, Surabaya",/restaurants/surabaya/mama-noi-sambikerep
+223,Kober Mie Setan,Lakarsantri | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Sepat Lidah Kulon No. 19 - 21, Lakarsantri, Surabaya",/restaurants/surabaya/kober-mie-setan-lakarsantri
+224,Wok 'N' Tok - Yello Hotel Jemursari Surabaya,Tenggilis Mejoyo | Kafe,4.24 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Jemursari No. 176, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/wok-n-tok-yello-hotel-jemursari-surabaya-tenggilis-mejoyo
+225,Lapis Kukus Pahlawan,Wonokromo | Toko Kue,4.16 /5,Di bawah Rp. 50.000 /orang,"Jl. Jagir Wonokromo No. 110, Wonokromo, Surabaya",/restaurants/surabaya/lapis-kukus-pahlawan-wonokromo
+226,Kolokial,Ngagel | Kafe,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Karimata No. 6, Ngagel, Surabaya",/restaurants/surabaya/kolokial-ngagel
+227,Ayam Geprek Kak Rose,Semolowaru | Indonesia,4.53 /5,Di bawah Rp. 50.000 /orang,"Jl. Nginden Semolo, Semolowaru, Surabaya",/restaurants/surabaya/ayam-geprek-kak-rose-semolowaru
+228,Afterwork Caffeine,Sambikerep | Kafe,4.53 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/afterwork-caffeine-sambikerep
+229,Marugame Udon,Mulyorejo | Jepang,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/marugame-udon-mulyorejo
+230,Dong Bei Yi Jia Ren,Dukuh Pakis | China,4.16 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Kupang Indah No. 45A, Dukuh Pakis, Surabaya",/restaurants/surabaya/dong-bei-yi-jia-ren-dukuh-pakis
+231,Dunkin' Donuts,Ngagel | Donat,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Jaya Selatan, Ngagel, Surabaya",/restaurants/surabaya/dunkin-donuts-ngagel
+232,Takko,Mulyorejo | China,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Laguna KJW Putih Tambak, Mulyorejo, Surabaya",/restaurants/surabaya/takko-mulyorejo
+233,Kopi Kenangan,Manyar | Kafe,4.24 /5,Di bawah Rp. 50.000 /orang,"Jl. Manyar Kertoarjo No. 26, Manyar, Surabaya",/restaurants/surabaya/kopi-kenangan-manyar
+234,Ikan Bakar Cianjur,Tegalsari | Indonesia,4.08 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Tegalsari No. 52, Tegalsari, Surabaya",/restaurants/surabaya/ikan-bakar-cianjur-tegalsari
+235,Kintan Buffet,Wiyung | Jepang,4.05 /5,Di atas Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/kintan-buffet-wiyung
+236,Bon Ami Restaurant & Bakery,"Tegalsari | Indonesia,Barat,Toko Roti dan Kue",4.11 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Kombes Pol. M. Duryat No. 27, Tegalsari, Surabaya",/restaurants/surabaya/bon-ami-restaurant-dan-bakery-tegalsari
+237,Foresee By Angies,Kayoon | Kafe,4.07 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kayoon No. 62, Kayoon, Surabaya",/restaurants/surabaya/foresee-by-angies-kayoon
+238,Bakso Beranak Pak Sarjuk,Ngagel | Indonesia,4.53 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Jaya Selatan No. 81, Ngagel, Surabaya",/restaurants/surabaya/bakso-beranak-pak-sarjuk-ngagel
+239,Kimukatsu,Mulyorejo | Jepang,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Laguna KJW Putih Tambak, Mulyorejo, Surabaya",/restaurants/surabaya/kimukatsu-mulyorejo-2
+240,Okinawa Sushi,Wiyung | Jepang,4.16 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/okinawa-sushi-wiyung
+241,Confit,Tegalsari | Barat,4.13 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. R.A Kartini No. 69, Tegalsari, Surabaya",/restaurants/surabaya/confit-tegalsari
+242,United Steaks,Mulyorejo | Barat,4.05 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kalisari Utara I, Mulyorejo, Surabaya",/restaurants/surabaya/united-steaks-mulyorejo-2
+243,Chatime,Dukuh Pakis | Bubble Tea,4.09 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/chatime-dukuh-pakis
+244,Haewoo Bakery & Coffee,Mulyorejo | Korea,4.53 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah No. 45, Mulyorejo, Surabaya",/restaurants/surabaya/haewoo-bakery-dan-coffee-mulyorejo
+245,Kimukatsu,Mulyorejo | Jepang,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Laguna KJW Putih Tambak, Mulyorejo, Surabaya",/restaurants/surabaya/kimukatsu-mulyorejo-2
+246,Okinawa Sushi,Wiyung | Jepang,4.16 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/okinawa-sushi-wiyung
+247,Confit,Tegalsari | Barat,4.13 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. R.A Kartini No. 69, Tegalsari, Surabaya",/restaurants/surabaya/confit-tegalsari
+248,United Steaks,Mulyorejo | Barat,4.05 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kalisari Utara I, Mulyorejo, Surabaya",/restaurants/surabaya/united-steaks-mulyorejo-2
+249,Chatime,Dukuh Pakis | Bubble Tea,4.09 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/chatime-dukuh-pakis
+250,Haewoo Bakery & Coffee,Mulyorejo | Korea,4.53 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah No. 45, Mulyorejo, Surabaya",/restaurants/surabaya/haewoo-bakery-dan-coffee-mulyorejo
+251,La Kwok,Dukuh Pakis | China,4.03 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Villa Bukit Mas, Dukuh Pakis, Surabaya",/restaurants/surabaya/la-kwok-dukuh-pakis
+252,Depot Tjwan Fey,Tandes | Indonesia,4.47 /5,Di bawah Rp. 50.000 /orang,"Jl. Darmo Indah Barat Blok LL No. 8, Tandes, Surabaya",/restaurants/surabaya/depot-tjwan-fey-tandes
+253,Sari Laut Kapasan,Rungkut | Indonesia,4.09 /5,Di bawah Rp. 50.000 /orang,"Jl. Rungkut Madya No. 69, Rungkut, Surabaya",/restaurants/surabaya/sari-laut-kapasan-rungkut
+254,Libby Brownies,Sukomanunggal | Kafe,4.14 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Sukomanunggal No. 96, Sukomanunggal, Surabaya",/restaurants/surabaya/libby-brownies-sukomanunggal
+255,Richeese Factory,Wonokromo,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Adityawarman No. 65, Wonokromo, Surabaya",/restaurants/surabaya/richeese-factory-wonokromo-2
+256,Tea Break,Gayungan | Minuman,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 288, Gayungan, Surabaya",/restaurants/surabaya/tea-break-gayungan
+257,Dapur Cokelat,Wonocolo | Toko Kue,4.53 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Jemursari No. 317, Wonocolo, Surabaya",/restaurants/surabaya/dapur-cokelat-wonocolo
+258,La Kwok,Dukuh Pakis | China,4.03 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Villa Bukit Mas, Dukuh Pakis, Surabaya",/restaurants/surabaya/la-kwok-dukuh-pakis
+259,Depot Tjwan Fey,Tandes | Indonesia,4.47 /5,Di bawah Rp. 50.000 /orang,"Jl. Darmo Indah Barat Blok LL No. 8, Tandes, Surabaya",/restaurants/surabaya/depot-tjwan-fey-tandes
+260,Sari Laut Kapasan,Rungkut | Indonesia,4.09 /5,Di bawah Rp. 50.000 /orang,"Jl. Rungkut Madya No. 69, Rungkut, Surabaya",/restaurants/surabaya/sari-laut-kapasan-rungkut
+261,Libby Brownies,Sukomanunggal | Kafe,4.14 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Sukomanunggal No. 96, Sukomanunggal, Surabaya",/restaurants/surabaya/libby-brownies-sukomanunggal
+262,Richeese Factory,Wonokromo,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Adityawarman No. 65, Wonokromo, Surabaya",/restaurants/surabaya/richeese-factory-wonokromo-2
+263,Tea Break,Gayungan | Minuman,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 288, Gayungan, Surabaya",/restaurants/surabaya/tea-break-gayungan
+264,Dapur Cokelat,Wonocolo | Toko Kue,4.53 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Jemursari No. 317, Wonocolo, Surabaya",/restaurants/surabaya/dapur-cokelat-wonocolo
+265,Warung Larris,Dukuh Pakis | China,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Darmo Permai Selatan, Dukuh Pakis, Surabaya",/restaurants/surabaya/warung-larris-dukuh-pakis
+266,Cincau Station,Wonokromo | Minuman,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/cincau-station-wonokromo
+267,Myoung Ga,Dukuh Pakis | Korea,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. HR Muhammad No. 181, Dukuh Pakis, Surabaya",/restaurants/surabaya/myoung-ga-dukuh-pakis-2
+268,BurgerUP,Dukuh Pakis | Barat,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/burgerup-dukuh-pakis
+269,Warung Larris,Dukuh Pakis | China,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Darmo Permai Selatan, Dukuh Pakis, Surabaya",/restaurants/surabaya/warung-larris-dukuh-pakis
+270,Cincau Station,Wonokromo | Minuman,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/cincau-station-wonokromo
+271,Myoung Ga,Dukuh Pakis | Korea,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. HR Muhammad No. 181, Dukuh Pakis, Surabaya",/restaurants/surabaya/myoung-ga-dukuh-pakis-2
+272,BurgerUP,Dukuh Pakis | Barat,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/burgerup-dukuh-pakis
+273,OKUI,Ngagel | Kafe,4.28 /5,Di bawah Rp. 50.000 /orang,"Jl. Bawean No. 37, Ngagel, Surabaya",/restaurants/surabaya/okui-ngagel
+274,Old Wood Bistro & Bar,Gubeng | Italia,4.13 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Nias No. 98, Gubeng, Surabaya",/restaurants/surabaya/old-wood-bistro-dan-bar-gubeng
+275,Jack & John,Mulyorejo | Indonesia,4.13 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Laguna KJW Putih Tambak, Mulyorejo, Surabaya",/restaurants/surabaya/jack-dan-john-mulyorejo
+276,Alura,Lakarsantri | Kafe,4.30 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Villa Taman Telaga Blok TJ8 No. 8, Lakarsantri, Surabaya",/restaurants/surabaya/alura-lakarsantri
+277,Lontong Mie Babah Hoi,Tambaksari | Indonesia,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Kapas Krampung No. 124H (Belakang BCA), Tambaksari, Surabaya",/restaurants/surabaya/lontong-mie-babah-hoi-tambaksari
+278,Pho Ba Ba,Mulyorejo | Vietnam,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/pho-ba-ba-mulyorejo
+279,Ejji Coffee Corner,Sambikerep | Kafe,4.12 /5,Di bawah Rp. 50.000 /orang,"Jl. Simpang Darmo Permai Utara No. 26, Sambikerep, Surabaya",/restaurants/surabaya/ejji-coffee-corner-sambikerep
+280,Go Brothers,Dukuh Pakis | Indonesia,4.06 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Darmo Permai I No. 38, Dukuh Pakis, Surabaya",/restaurants/surabaya/go-brothers-dukuh-pakis
+281,Sambal Bakar Indonesia,Sambikerep | Indonesia,4.16 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/sambal-bakar-indonesia-sambikerep
+282,The Grill Factory,Dukuh Pakis | Barat,4.90 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjen Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/the-grill-factory-dukuh-pakis
+283,HokBen (Hoka Hoka Bento),Mulyorejo,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/hokben-hoka-hoka-bento-mulyorejo
+284,Hacienda,Tegalsari | Meksiko,4.13 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/hacienda-tegalsari
+285,Agung Bakso Reog,Rungkut | Indonesia,4.25 /5,Di bawah Rp. 50.000 /orang,"Jl. Penjaringan Timur No. 22, Rungkut, Surabaya",/restaurants/surabaya/agung-bakso-reog-rungkut
+286,Cheskee Go,Klampis | Minuman,4.24 /5,Di bawah Rp. 50.000 /orang,"Jl. Klampis Jaya No. 1, Klampis, Surabaya",/restaurants/surabaya/cheskee-go-klampis
+287,Ayam Goreng Asli Pemuda,Sawahan | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Tidar No. 21, Sawahan, Surabaya",/restaurants/surabaya/ayam-goreng-asli-pemuda-sawahan
+288,Tokyo Resto,Gubeng | China,4.47 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Nginden No. 74, Gubeng, Surabaya",/restaurants/surabaya/tokyo-resto-gubeng-2
+289,Gyu Kaku,Wiyung | Jepang,4.10 /5,Di atas Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/gyu-kaku-wiyung
+290,Peco Peco Sushi,Gubeng | Jepang,4.02 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Gubeng Pojok No. 1, Gubeng, Surabaya",/restaurants/surabaya/peco-peco-sushi-gubeng
+291,MIKOPI,Gubeng | Kafe,4.16 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada No. 108, Gubeng, Surabaya",/restaurants/surabaya/mikopi-gubeng
+292,Bakso Son9o,Sambikerep | Indonesia,4.28 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Gapura Blok F2 No. 9, Sambikerep, Surabaya",/restaurants/surabaya/bakso-son9o-sambikerep
+293,Meat Shop & Gourmet,Dukuh Pakis | Barat,4.06 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Darmo Permai Selatan I No. 93, Dukuh Pakis, Surabaya",/restaurants/surabaya/meat-shop-dan-gourmet-dukuh-pakis
+294,Cincau Station,Tegalsari | Minuman,4.03 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/cincau-station-tegalsari
+295,Warkop Mie Aceh Narasa,Semolowaru | Indonesia,4.06 /5,Di bawah Rp. 50.000 /orang,"Jl. Semolowaru No. 176A, Semolowaru, Surabaya",/restaurants/surabaya/warkop-mie-aceh-narasa-semolowaru
+296,Indragiri Indonesian Resto,Wonokromo | Indonesia,4.80 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Indragiri No. 10, Wonokromo, Surabaya",/restaurants/surabaya/indragiri-indonesian-resto-wonokromo
+297,Dose Coffee & Eatery,Wonocolo | Kafe,4.35 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Jemursari No. 59 (Lantai 2), Wonocolo, Surabaya",/restaurants/surabaya/dose-coffee-dan-eatery-wonocolo
+298,Mie Tokyo,Dukuh Pakis | Jepang,4.25 /5,Di bawah Rp. 50.000 /orang,"Jl. HR Muhammad, Dukuh Pakis, Surabaya",/restaurants/surabaya/mie-tokyo-dukuh-pakis
+299,Ta Wan,Mulyorejo | China,4.07 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/ta-wan-mulyorejo
+300,Red & White,"Wiyung | Kafe,Lounge",4.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/red-dan-white-wiyung
+301,Gioi Asian Bistro & Lounge,"Tegalsari | Barat,Indonesia",4.40 /5,Di atas Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/gioi-asian-bistro-dan-lounge-tegalsari
+302,Kopitagram,Tenggilis Mejoyo | Kafe,4.25 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Tenggilis No. 93, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/kopitagram-tenggilis-mejoyo
+303,Maison Feerie,Mulyorejo | Toko Roti dan Kue,4.35 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Laguna KJW Putih Tambak, Mulyorejo, Surabaya",/restaurants/surabaya/maison-feerie-mulyorejo
+304,Sake-yo,Wiyung | Jepang,4.25 /5,Di atas Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/sake-yo-wiyung
+305,Five Monkeys,Dukuh Pakis | Barat,4.33 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/five-monkeys-dukuh-pakis
+306,Asana Kopi,Semolowaru | Kafe,4.47 /5,Di bawah Rp. 50.000 /orang,"Jl. Nginden Semolo, Semolowaru, Surabaya",/restaurants/surabaya/asana-kopi-semolowaru
+307,Rome 21,Mulyorejo | Toko Roti dan Kue,4.47 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalisari Permai I, Mulyorejo, Surabaya",/restaurants/surabaya/rome-21-mulyorejo
+308,The Library Coffee & Pastries - Hotel Ascott Waterplace Surabaya,Wiyung | Kafe,4.47 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Pakuwon Indah Lontar Timur Kav. 3 - 5, Wiyung, Surabaya",/restaurants/surabaya/the-library-coffee-dan-pastries-hotel-ascott-waterplace-surabaya-wiyung
+309,Kartika Mie & Ramen,Pabean Cantian | Jepang,4.53 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalisosok No. 15, Pabean Cantian, Surabaya",/restaurants/surabaya/kartika-mie-dan-ramen-pabean-cantian
+310,Yoshinoya,Wonokromo | Jepang,4.12 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/yoshinoya-wonokromo
+311,Tanamera Coffee Roastery,Pabean Cantian | Kafe,4.12 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Sampoerna No. 6, Pabean Cantian, Surabaya",/restaurants/surabaya/tanamera-coffee-roastery-pabean-cantian
+312,Tokyo Belly,Wiyung | Jepang,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/tokyo-belly-wiyung
+313,Lisa's Kitchen - Hotel Ayola La Lisa,Gubeng | Indonesia,4.16 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Nginden No. 82, Gubeng, Surabaya",/restaurants/surabaya/lisa-s-kitchen-hotel-ayola-la-lisa-gubeng
+314,Sushi Tei,Gubeng | Jepang,4.25 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Gubeng Pojok No. 1, Gubeng, Surabaya",/restaurants/surabaya/sushi-tei-gubeng
+315,Rahasia Art Space & Eatery,Rungkut | Kafe,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Pandugo Timur I, Rungkut, Surabaya",/restaurants/surabaya/rahasia-art-space-dan-eatery-rungkut
+316,Shao Kao,Kertajaya | China,4.03 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Kertajaya Indah No. 57, Kertajaya, Surabaya",/restaurants/surabaya/shao-kao-kertajaya
+317,Sate Pak Mat Jami'i,Gubeng | Indonesia,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Menur No. 2C, Gubeng, Surabaya",/restaurants/surabaya/sate-pak-mat-jami-i-gubeng
+318,Bon Ami Bakery,Lakarsantri | Toko Roti dan Kue,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Telaga Golf Road No. 47, Lakarsantri, Surabaya",/restaurants/surabaya/bon-ami-bakery-lakarsantri
+319,Bakmie MG Express,Tenggilis Mejoyo | Indonesia,4.16 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Tenggilis Mejoyo No. 114B, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/bakmie-mg-express-tenggilis-mejoyo
+320,Depot Mie 55,Gayungan | Indonesia,4.16 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Menanggal V No. 6, Gayungan, Surabaya",/restaurants/surabaya/depot-mie-55-gayungan
+321,Coffee Toffee,Gubeng | Kafe,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmawangsa No. 1, Gubeng, Surabaya",/restaurants/surabaya/coffee-toffee-gubeng
+322,Sop Ayam Pak Min Klaten,Mulyorejo | Indonesia,4.25 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 8, Mulyorejo, Surabaya",/restaurants/surabaya/sop-ayam-pak-min-klaten-mulyorejo
+323,Karmen's Eve Coffee & Snack,Gubeng | Kafe,4.47 /5,Di bawah Rp. 50.000 /orang,"Jl. Karang Menjangan V No. 8, Gubeng, Surabaya",/restaurants/surabaya/karmen-s-eve-coffee-dan-snack-gubeng
+324,Kakkoii,Manyar | Jepang,4.47 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Manyar Kertoarjo No. 110, Manyar, Surabaya",/restaurants/surabaya/kakkoii-manyar
+325,Tom Sushi,Tegalsari | Jepang,4.47 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/tom-sushi-tegalsari
+326,My Kopi-O!,Wiyung | Kafe,4.07 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/my-kopi-o-wiyung
+327,Cincau Station,Rungkut | Minuman,4.33 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kalirungkut No. 25, Rungkut, Surabaya",/restaurants/surabaya/cincau-station-rungkut
+328,Mister Donut,Dukuh Pakis | Donat,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/mister-donut-dukuh-pakis
+329,Excelso,Gayungan | Kafe,4.03 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jend. A. Yani No. 72 - 74, Gayungan, Surabaya",/restaurants/surabaya/excelso-gayungan
+330,The Gentlepig,Dukuh Pakis | Barat,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/the-gentlepig-dukuh-pakis
+331,GH Corner,Pucang Sewu | Arab/Timur Tengah,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Pucang Anom No. 58C - D, Pucang Sewu, Surabaya",/restaurants/surabaya/gh-corner-pucang-sewu
+332,Michuu Coffee,Sambikerep | Kafe,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puri Widya Kencana Blok K6 No. 11, Sambikerep, Surabaya",/restaurants/surabaya/michuu-coffee-sambikerep
+333,Aroma Makassar,Genteng | Indonesia,4.40 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Pemuda, Genteng, Surabaya",/restaurants/surabaya/aroma-makassar-genteng
+334,Locaahands,Genteng | Kafe,4.40 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Tunjungan No. 39, Genteng, Surabaya",/restaurants/surabaya/locaahands-genteng
+335,Boncafe,Wiyung | Barat,4.47 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/boncafe-wiyung
+336,Shaburi Shabu Shabu,Wiyung | Jepang,4.80 /5,Di atas Rp. 200.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/shaburi-shabu-shabu-wiyung
+337,Galbisal Korean BBQ,Manyar | Korea,4.07 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Manyar Kertoarjo No. 82, Manyar, Surabaya",/restaurants/surabaya/galbisal-korean-bbq-manyar
+338,Kopi Opa,Wonokromo | Kafe,4.33 /5,Di bawah Rp. 50.000 /orang,"Jl. Indragiri No. 9, Wonokromo, Surabaya",/restaurants/surabaya/kopi-opa-wonokromo
+339,X.O Zupri,Sambikerep | China,4.70 /5,Di bawah Rp. 50.000 /orang,"Jl. Lontar No. 9, Sambikerep, Surabaya",/restaurants/surabaya/x-o-zupri-sambikerep
+340,RamenYA!,Wonokromo | Jepang,4.03 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/ramenya-wonokromo
+341,Chatime,Mulyorejo | Bubble Tea,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Laguna KJW Putih Tambak, Mulyorejo, Surabaya",/restaurants/surabaya/chatime-mulyorejo
+342,Ludic,Genteng | Kafe,4.08 /5,Di bawah Rp. 50.000 /orang,"Jl. Tunjungan No. 30, Genteng, Surabaya",/restaurants/surabaya/ludic-genteng
+343,D'Plato,Sambikerep | Kafe,4.08 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Waterfront WP 1 No. 35, Sambikerep, Surabaya",/restaurants/surabaya/d-plato-sambikerep
+344,Pisang Keju Mbak Ita,Tegalsari | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Tegalsari No. 48, Tegalsari, Surabaya",/restaurants/surabaya/pisang-keju-mbak-ita-tegalsari
+345,Golden Monkey,Tandes | Bubble Tea,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Darmo Indah Timur Blok SS No. 20 (Sebelah Ken 88 Supermarket), Tandes, Surabaya",/restaurants/surabaya/golden-monkey-tandes
+346,Pizza Hut,Genteng,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Taman Apsari No. 59, Genteng, Surabaya",/restaurants/surabaya/pizza-hut-genteng-2
+347,Mala Jia,Wiyung | China,4.80 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/mala-jia-wiyung
+348,Quickly,Wiyung | Bubble Tea,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/quickly-wiyung-3
+349,Xi Bo Ba,Rungkut | Bubble Tea,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 104 (Sebelah BCA Merr), Rungkut, Surabaya",/restaurants/surabaya/xi-bo-ba-rungkut
+350,Dunkin' Donuts,Gubeng | Donat,4.08 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada No. 113 - 114, Gubeng, Surabaya",/restaurants/surabaya/dunkin-donuts-gubeng
+351,Pizza Romas & Coffee,Rungkut | Italia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 34, Rungkut, Surabaya",/restaurants/surabaya/pizza-romas-dan-coffee-rungkut
+352,Cheskee,Wiyung | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/cheskee-wiyung
+353,Maison Feerie,Wiyung | Toko Kue dan Roti,4.04 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/maison-feerie-wiyung-2
+354,Food Coma Beverages,Rungkut | Minuman,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kedung Baruk No. 26 - 28, Rungkut, Surabaya",/restaurants/surabaya/food-coma-beverages-rungkut
+355,Depot H. Wachid Hasyim II,Wonocolo | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Jemur Andayani No. 17, Wonocolo, Surabaya",/restaurants/surabaya/depot-h-wachid-hasyim-ii-wonocolo
+356,Asan Kwetiaw Medan,Gubeng | China,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Manyar No. 86, Gubeng, Surabaya",/restaurants/surabaya/asan-kwetiaw-medan-gubeng
+357,Warung Bu Kris,Wiyung | Indonesia,4.27 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Menganti No. 232, Wiyung, Surabaya",/restaurants/surabaya/warung-bu-kris-wiyung-2
+358,Nasi Pecel Nyamleng,Tenggilis Mejoyo | Indonesia,4.70 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kendangsari Industri No. 6, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/nasi-pecel-nyamleng-tenggilis-mejoyo
+359,Sushi Jin,Manyar | Jepang,4.25 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Manyar Kertoarjo No. 98, Manyar, Surabaya",/restaurants/surabaya/sushi-jin-manyar
+360,Hanaichi Teppan House,Wiyung | Jepang,4.15 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/hanaichi-teppan-house-wiyung
+361,Excelso,Rungkut | Kafe,4.15 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 292, Rungkut, Surabaya",/restaurants/surabaya/excelso-rungkut
+362,Mi Hotplet Singapore,Tegalsari | Indonesia,4.04 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/mi-hotplet-singapore-tegalsari
+363,12TeaCoffee,Sambikerep | Kafe,4.03 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/12teacoffee-sambikerep
+364,Macaroni Cuck,Gubeng | Snack,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Gubeng Airlangga II No. 9, Gubeng, Surabaya",/restaurants/surabaya/macaroni-cuck-gubeng
+365,Chatime,Gayungan | Bubble Tea,4.25 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 88, Gayungan, Surabaya",/restaurants/surabaya/chatime-gayungan
+366,Kokumi,Rungkut | Minuman,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kalirungkut No. 25, Rungkut, Surabaya",/restaurants/surabaya/kokumi-rungkut
+367,Gule Maryam Cak Sunar,Ampel | Arab/Timur Tengah,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Pegirian (Samping Makam Botoputih), Ampel, Surabaya",/restaurants/surabaya/gule-maryam-cak-sunar-ampel-2
+368,Uplore,Tegalsari | Kafe,4.33 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kapuas No. 26, Tegalsari, Surabaya",/restaurants/surabaya/uplore-tegalsari
+369,Kapo Kafe Pojok,Sambikerep | Kafe,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/kapo-kafe-pojok-sambikerep
+370,Bodaeng Thai,Genteng | Thailand,4.08 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Embong Kenongo No. 62, Genteng, Surabaya",/restaurants/surabaya/bodaeng-thai-genteng
+371,MyoungDong Gyoza,Sambikerep | Korea,4.08 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/myoungdong-gyoza-sambikerep
+372,Iki Japanese Resto,Dukuh Pakis | Jepang,4.27 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Sungkono, Dukuh Pakis, Surabaya",/restaurants/surabaya/iki-japanese-resto-dukuh-pakis
+373,Gyu Kaku,Mulyorejo | Jepang,4.27 /5,Di atas Rp. 200.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/gyu-kaku-mulyorejo
+374,Nasi Kulit Malam Jumat,Wonokromo | Indonesia,4.70 /5,Di bawah Rp. 50.000 /orang,"Jl. Adityawarman No. 48 - 56, Wonokromo, Surabaya",/restaurants/surabaya/nasi-kulit-malam-jumat-wonokromo
+375,Bebek Rempah Asli Madura Rabek,Rungkut | Indonesia,4.04 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno Blok M No. 32, Rungkut, Surabaya",/restaurants/surabaya/bebek-rempah-asli-madura-rabek-rungkut
+376,Carnis,Gubeng | Kafe,4.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Gubeng No. 96, Gubeng, Surabaya",/restaurants/surabaya/carnis-gubeng
+377,Peco Peco Sushi,Dukuh Pakis | Jepang,4.33 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/peco-peco-sushi-dukuh-pakis
+378,Bang Oya Sop Kaki Kambing,Sukolilo | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Arief Rahman Hakim No. 207, Sukolilo, Surabaya",/restaurants/surabaya/bang-oya-sop-kaki-kambing-sukolilo
+379,Kopte Kopi & Teh,Sambikerep | Minuman,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Citraland Utama, Sambikerep, Surabaya",/restaurants/surabaya/kopte-kopi-dan-teh-sambikerep
+380,Yokoso Resto,Sambikerep | Jepang,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/yokoso-resto-sambikerep
+381,The Pianoza,"Wonokromo | Barat,Italia",4.08 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Dr. Soetomo No. 130, Wonokromo, Surabaya",/restaurants/surabaya/the-pianoza-wonokromo
+382,Dum Dum Thai Drinks,Wiyung | Minuman,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/dum-dum-thai-drinks-wiyung
+383,Starbucks,Gubeng,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Gubeng No. 33, Gubeng, Surabaya",/restaurants/surabaya/starbucks-gubeng-2
+384,The Coffee Bean & Tea Leaf,Mulyorejo | Kafe,4.15 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/the-coffee-bean-dan-tea-leaf-mulyorejo
+385,Depot Mak Ay,Sukomanunggal | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Kupang Jaya Kav. 3A No. 1 , Sukomanunggal, Surabaya",/restaurants/surabaya/depot-mak-ay-sukomanunggal
+386,Warung Pak Umar,Dukuh Pakis | Indonesia,4.33 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/warung-pak-umar-dukuh-pakis
+387,Martabak & Terang Bulan Tegal,Wonokromo | Indonesia,4.33 /5,Di bawah Rp. 50.000 /orang,"Jl. Bendul Merisi No. 142, Wonokromo, Surabaya",/restaurants/surabaya/martabak-dan-terang-bulan-tegal-wonokromo
+388,Supresso Coffee Bar,Dukuh Pakis | Kafe,4.40 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Bukit Darmo Boulevard, Dukuh Pakis, Surabaya",/restaurants/surabaya/supresso-coffee-bar-dukuh-pakis-2
+389,Depot Karimun Jawa,Gubeng | Indoensia,4.27 /5,Di bawah Rp. 50.000 /orang,"Jl. Karimun Jawa Blok 25 - 27 Kav. 7, Gubeng, Surabaya",/restaurants/surabaya/depot-karimun-jawa-gubeng
+390,The Duck King,Tegalsari | China,4.27 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/the-duck-king-tegalsari
+391,Rustic Market,Sambikerep | Kafe,4.04 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Graha Natura, Sambikerep, Surabaya",/restaurants/surabaya/rustic-market-sambikerep
+392,Foremore,Sukolilo | Kafe,4.08 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 256, Sukolilo, Surabaya",/restaurants/surabaya/foremore-sukolilo
+393,Pizza Hut Delivery (PHD),Rungkut,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Rungkut Mapan Blok FA No. 1, Rungkut, Surabaya",/restaurants/surabaya/pizza-hut-delivery-phd-rungkut
+394,Mangkokku,Tenggilis Mejoyo,4.27 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Panjang Jiwo Permai, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/mangkokku-tenggilis-mejoyo
+395,Kin Kao Thai Street Food,Dukuh Pakis | Thailand,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/kin-kao-thai-street-food-dukuh-pakis
+396,Bubur Ayam Bandung Pajajaran,Wonokromo | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Bendul Merisi No. 22, Wonokromo, Surabaya",/restaurants/surabaya/bubur-ayam-bandung-pajajaran-wonokromo-2
+397,Foye Bistro,Gubeng | China,4.04 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Dharmahusada No. 122, Gubeng, Surabaya",/restaurants/surabaya/foye-bistro-gubeng
+398,IKEA Ciputra World,Dukuh Pakis | Barat,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/ikea-ciputra-world-dukuh-pakis
+399,Alba Ristorante,Dukuh Pakis | Italia,4.60 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/alba-ristorante-dukuh-pakis
+400,La Ricchi Ice Cream,Wonokromo | Es Krim,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Indragiri No. 12 - 18, Wonokromo, Surabaya",/restaurants/surabaya/la-ricchi-ice-cream-wonokromo
+401,Bubur Ayam Bang Udin,Sambikerep | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Lontar, Sambikerep, Surabaya",/restaurants/surabaya/bubur-ayam-bang-udin-sambikerep
+402,Boost,Wiyung | Minuman,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/boost-wiyung
+403,Asgar Pangsit Mie Ayam,Tenggilis Mejoyo | Indonesia,4.15 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Tenggilis Mejoyo Blok AJ No. 5, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/asgar-pangsit-mie-ayam-tenggilis-mejoyo
+404,Kita Kita Food Studio,Tenggilis Mejoyo | Italia,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Jemursari No. 220, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/kita-kita-food-studio-tenggilis-mejoyo
+405,Loure Gelateria,Wiyung | Es Krim,4.15 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/loure-gelateria-wiyung
+406,Shinecake,Tenggilis Mejoyo | Toko Roti dan Kue,4.70 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Tenggilis No. 108, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/shinecake-tenggilis-mejoyo
+407,Soto Ayam & Ayam Kremes Suroboyo Rek,Gubeng | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Gubeng Kertajaya VII C No. 56, Gubeng, Surabaya",/restaurants/surabaya/soto-ayam-dan-ayam-kremes-suroboyo-rek-gubeng
+408,Shihlin,Mulyorejo | Snack,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/shihlin-mulyorejo
+409,Pizza Hut Ristorante,Tegalsari | Italia,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Darmo No. 79A, Tegalsari, Surabaya",/restaurants/surabaya/pizza-hut-ristorante-tegalsari-2
+410,Bakso Ronggolawe,Kenjeran | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Bulak Banteng Lor No. 4, Kenjeran, Surabaya",/restaurants/surabaya/bakso-ronggolawe-kenjeran
+411,Soto Ayam Cak To,Genteng | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Undaan Wetan, Genteng, Surabaya",/restaurants/surabaya/soto-ayam-cak-to-genteng-3
+412,Bebek Kondang,Klampis | Indonesia,4.05 /5,Di bawah Rp. 50.000 /orang,"Jl. Klampis Jaya No. 47, Klampis, Surabaya",/restaurants/surabaya/bebek-kondang-klampis
+413,Kikil Sapi Lodoyo,Ngagel | Indonesia,4.27 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Jaya Selatan No. 18, Ngagel, Surabaya",/restaurants/surabaya/kikil-sapi-lodoyo-ngagel
+414,Kabobs,Wonokromo | Arab/Timur Tengah,4.33 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/kabobs-wonokromo
+415,Depot Trio M,Wonokromo | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Bratang Gede III No. 83C, Wonokromo, Surabaya",/restaurants/surabaya/depot-trio-m-wonokromo
+416,Wok Noodle,Wiyung | Indonesia,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/wok-noodle-wiyung
+417,Locus Cafe & Pastry,Wonocolo | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Sidosermo Indah No. 6, Wonocolo, Surabaya",/restaurants/surabaya/locus-cafe-dan-pastry-wonocolo
+418,Pizza Hut,Rungkut,4.05 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dr. Ir. H. Soekarno, Rungkut, Surabaya",/restaurants/surabaya/pizza-hut-rungkut
+419,Mie Yabi Hot,Tambaksari | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ploso Baru No. 16, Tambaksari, Surabaya",/restaurants/surabaya/mie-yabi-hot-tambaksari
+420,Kopi Kenangan,Gayungan | Minuman,4.05 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 88, Gayungan, Surabaya",/restaurants/surabaya/kopi-kenangan-gayungan
+421,Rou Asian Meatery,Mulyorejo | China,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Timur Blok RR No. 19, Mulyorejo, Surabaya",/restaurants/surabaya/rou-asian-meatery-mulyorejo
+422,Serlok Kopi,Kertajaya | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Kertajaya No. 67, Kertajaya, Surabaya",/restaurants/surabaya/serlok-kopi-kertajaya
+423,Gubug Makan Mang Engking,Gubeng | Indonesia,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Stasiun Gubeng, Gubeng, Surabaya",/restaurants/surabaya/gubug-makan-mang-engking-gubeng
+424,Ayam Tulang Lunak Malioboro,Tenggilis Mejoyo | Indonesia,4.04 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Kendangsari No. 62, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/ayam-tulang-lunak-malioboro-tenggilis-mejoyo
+425,Kedai 27,Gayungan | Kafe,4.05 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 288, Gayungan, Surabaya",/restaurants/surabaya/kedai-27-gayungan
+426,Magal Korean BBQ,Mulyorejo | Korea,4.05 /5,Di atas Rp. 200.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/magal-korean-bbq-mulyorejo
+427,Tokyo Resto,Gubeng | China,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Nginden No. 68, Gubeng, Surabaya",/restaurants/surabaya/tokyo-resto-gubeng-1
+428,Gojumong,Dukuh Pakis | Korea,4.20 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Bukit Darmo Boulevard No. 2D - 2E, Dukuh Pakis, Surabaya",/restaurants/surabaya/gojumong-dukuh-pakis
+429,Toast Jam,Dukuh Pakis | Kafe,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Bukit Darmo Golf, Dukuh Pakis, Surabaya",/restaurants/surabaya/toast-jam-dukuh-pakis-2
+430,Linni's Pattiserie,"Sambikerep | Toko Roti dan Kue,Kafe",4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Puspa Raya, Sambikerep, Surabaya",/restaurants/surabaya/linni-s-pattiserie-sambikerep
+431,Raja Pisang Keju Arjuna,Semolowaru | Indonesia,4.50 /5,Di bawah Rp. 50.000 /orang,"Jl. Nginden Semolo No. 18, Semolowaru, Surabaya",/restaurants/surabaya/raja-pisang-keju-arjuna-semolowaru
+432,"Beatus Alfresco Dining & Grill - Ciputra Golf, Club & Hotel",Lakarsantri | Barat,4.50 /5,Di atas Rp. 200.000 /orang,"Jl. Citraraya Utama, Lakarsantri, Surabaya",/restaurants/surabaya/beatus-alfresco-dining-dan-grill-ciputra-golf-club-dan-hotel-lakarsantri
+433,Kintan Buffet,Mulyorejo | Jepang,4.50 /5,Di atas Rp. 200.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/kintan-buffet-mulyorejo-2
+434,Sushi Hiro,Manyar | Jepang,4.50 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Manyar Kertoarjo No. 71, Manyar, Surabaya",/restaurants/surabaya/sushi-hiro-manyar
+435,Ngikan,Sambikerep,4.27 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/ngikan-sambikerep
+436,Kopi Kakak,Pucang Sewu | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Pucang Anom Timur No. 48, Pucang Sewu, Surabaya",/restaurants/surabaya/kopi-kakak-pucang-sewu
+437,Puyo Silky Desserts,Tegalsari | Puding,4.15 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/puyo-silky-desserts-tegalsari
+438,Kawan Seduh Coffee,Gubeng | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada No. 134, Gubeng, Surabaya",/restaurants/surabaya/kawan-seduh-coffee-gubeng
+439,Okinawa Sushi,Mulyorejo | Jepang,4.60 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/okinawa-sushi-mulyorejo
+440,Kiss Bakery,Semampir | Toko Roti dan Kue,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Tenggumung Baru Mulya II, Semampir, Surabaya",/restaurants/surabaya/kiss-bakery-semampir
+441,Angsle & Ronde 66,Tambaksari | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Ploso Baru No. 189, Tambaksari, Surabaya",/restaurants/surabaya/angsle-dan-ronde-66-tambaksari-2
+442,Pecel Madiun Bu Pri,Sambikerep | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/pecel-madiun-bu-pri-sambikerep
+443,Many Pany Pancake & Waffle,Wonokromo | Dessert,4.05 /5,Di bawah Rp. 50.000 /orang,"Jl. Kutai No. 38, Wonokromo, Surabaya",/restaurants/surabaya/many-pany-pancake-dan-waffle-wonokromo
+444,Cookies Box,Dukuh Pakis | Toko Roti dan Kue,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. HR Muhammad No. 73B, Dukuh Pakis, Surabaya",/restaurants/surabaya/cookies-box-dukuh-pakis
+445,Cita Rasa Atjeh,Wonocolo | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Margorejo Indah No. 6, Wonocolo, Surabaya",/restaurants/surabaya/cita-rasa-atjeh-wonocolo
+446,Sarkies Restaurant - Hotel Majapahit,Genteng | China,4.60 /5,Di atas Rp. 200.000 /orang,"Jl. Tunjungan No. 65, Genteng, Surabaya",/restaurants/surabaya/sarkies-restaurant-hotel-majapahit-genteng
+447,Onno Gelato & Coffee,Gayungan | Kafe,4.13 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Gayungsari Barat No. 29, Gayungan, Surabaya",/restaurants/surabaya/onno-gelato-dan-coffee-gayungan
+448,MacKenzie Coffee,Dukuh Pakis | Kafe,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. HR Muhammad, Dukuh Pakis, Surabaya",/restaurants/surabaya/mackenzie-coffee-dukuh-pakis
+449,Gudeg Pecel Cedhak Ubaya,Tenggilis Mejoyo | Indonesia,4.27 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Tenggilis Mejoyo Blok AJ No. 5, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/gudeg-pecel-cedhak-ubaya-tenggilis-mejoyo-2
+450,Le Kopee,Wonocolo | Minuman,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Siwalankerto VIII No. 7, Wonocolo, Surabaya",/restaurants/surabaya/le-kopee-wonocolo
+451,The Juice 99,Tenggilis Mejoyo | Indonesia,4.05 /5,Di bawah Rp. 50.000 /orang,"Jl. Kutisari Utara No. 33, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/the-juice-99-tenggilis-mejoyo
+452,Rosella,Pabean Cantian | China,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. St. Kota No. 7A, Pabean Cantian, Surabaya",/restaurants/surabaya/rosella-pabean-cantian
+453,Royal Cokelat,Jambangan | Kafe,4.50 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Royal Ketintang Regency Blok B No. 19B, Jambangan, Surabaya",/restaurants/surabaya/royal-cokelat-jambangan
+454,Onkei,Kertajaya | Jepang,4.50 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kertajaya Indah Timur XIV Blok O No. 540, Kertajaya, Surabaya",/restaurants/surabaya/onkei-kertajaya
+455,Steak Lab,Mulyorejo | Barat,4.50 /5,Di atas Rp. 200.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 208, Mulyorejo, Surabaya",/restaurants/surabaya/steak-lab-mulyorejo
+456,Warung Imood,Gubeng | Indonesia,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Gubeng Kertajaya IX No. 40A, Gubeng, Surabaya",/restaurants/surabaya/warung-imood-gubeng
+457,Amboja Bistro,Tegalsari | Indonesia,4.50 /5,Di bawah Rp. 50.000 /orang,"Jl. Diponegoro No. 56, Tegalsari, Surabaya",/restaurants/surabaya/amboja-bistro-tegalsari
+458,Aneka Jus Buah,Ngagel | Minuman,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Madya No. 4, Ngagel, Surabaya",/restaurants/surabaya/aneka-jus-buah-ngagel-2
+459,Kopi Komunitas,Ngagel | Kafe,4.05 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Jaya Selatan No. 127, Ngagel, Surabaya",/restaurants/surabaya/kopi-komunitas-ngagel
+460,100 Degrees,"Tegalsari | China,Indonesia",4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Imam Bonjol No. 126, Tegalsari, Surabaya",/restaurants/surabaya/100-degrees-tegalsari
+461,STMJ Bu Mun,Gubeng | Indonesia,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Nginden No. 135, Gubeng, Surabaya",/restaurants/surabaya/stmj-bu-mun-gubeng
+462,Bakso Pak Ali,Bubutan | Indonesia,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Kranggan No. 45, Bubutan, Surabaya",/restaurants/surabaya/bakso-pak-ali-bubutan
+463,Piting Kerang,Mulyorejo | Indonesia,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 10, Mulyorejo, Surabaya",/restaurants/surabaya/piting-kerang-mulyorejo
+464,Pisang Molen Dadi / Pisang Molen WM,Tegalsari | Indonesia,4.05 /5,Di bawah Rp. 50.000 /orang,"Jl. Mojopahit No. 1 (Sebelah Universitas Katolik Widya Mandala), Tegalsari, Surabaya",/restaurants/surabaya/pisang-molen-dadi-pisang-molen-wm-tegalsari
+465,Indonesian Bistro By Confit,Wiyung | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Boulevard Famili Selatan Kav. 1, Wiyung, Surabaya",/restaurants/surabaya/indonesian-bistro-by-confit-wiyung
+466,Kedai Kopi Kota,Genteng | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Embong Malang No. 73G, Genteng, Surabaya",/restaurants/surabaya/kedai-kopi-kota-genteng
+467,Lapis Kukus Surabaya,Genteng | Toko Kue,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Genteng Besar No. 77, Genteng, Surabaya",/restaurants/surabaya/lapis-kukus-surabaya-genteng
+468,Martabak Hanan,Mulyorejo | Indonesia,4.50 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Mulyosari No. 276, Mulyorejo, Surabaya",/restaurants/surabaya/martabak-hanan-mulyorejo
+469,Kedai Kopi Kulo,Wiyung | Kafe,4.50 /5,Di bawah Rp. 50.000 /orang,"Jl. Griya Babatan Mukti Blok J No. 31, Wiyung, Surabaya",/restaurants/surabaya/kedai-kopi-kulo-wiyung-2
+470,Mazaya Coffee & Roastery,Gayungan | Kafe,4.50 /5,Di bawah Rp. 50.000 /orang,"Jl. Gayungsari Barat X No. 32, Gayungan, Surabaya",/restaurants/surabaya/mazaya-coffee-dan-roastery-gayungan
+471,Excelso,Tegalsari | Kafe,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/excelso-tegalsari-1
+472,Mak Sreng,Tandes | Indonesia,4.27 /5,Di bawah Rp. 50.000 /orang,"Jl. Darmo Indah Barat I Blok D No. 9, Tandes, Surabaya",/restaurants/surabaya/mak-sreng-tandes
+473,Ayam Canton Soerabaja,Tegalsari | Indonesia,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Kedungdoro No. 251, Tegalsari, Surabaya",/restaurants/surabaya/ayam-canton-soerabaja-tegalsari-2
+474,DOMODOMO,Dukuh Pakis | Kafe,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/domodomo-dukuh-pakis
+475,Haagen - Dazs,Wiyung | Es Krim,4.40 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/haagen-dazs-wiyung-2
+476,Yoshinoya,Wiyung | Jepang,4.40 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Menganti No. 479, Wiyung, Surabaya",/restaurants/surabaya/yoshinoya-wiyung-2
+477,Old Street Bak Kut Teh,Tegalsari | China,4.07 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/old-street-bak-kut-teh-tegalsari
+478,Lontong Balap Rajawali,Krembangan | Indonesia,4.27 /5,Di bawah Rp. 50.000 /orang,"Jl. Krembangan Timur No. 32D, Krembangan, Surabaya",/restaurants/surabaya/lontong-balap-rajawali-krembangan
+479,KFC,Genteng,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Pemuda No. 27 - 31, Genteng, Surabaya",/restaurants/surabaya/kfc-genteng-3
+480,Reddog,Wiyung | Korea,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/reddog-wiyung
+481,Maxx Coffee,Gubeng | Kafe,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Gubeng No. 70, Gubeng, Surabaya",/restaurants/surabaya/maxx-coffee-gubeng
+482,La Pasion,Dukuh Pakis,4.05 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Mayjend Jonosewojo, Dukuh Pakis, Surabaya",/restaurants/surabaya/la-pasion-dukuh-pakis
+483,Tahu Tek Kartolo,Wonokromo | Indonesia,4.50 /5,Di bawah Rp. 50.000 /orang,"Jl. Bratang Gede VI E, Wonokromo, Surabaya",/restaurants/surabaya/tahu-tek-kartolo-wonokromo-2
+484,May Star,Dukuh Pakis | China,4.50 /5,Di atas Rp. 200.000 /orang,"Jl. Bukit Darmo Boulevard, Dukuh Pakis, Surabaya",/restaurants/surabaya/may-star-dukuh-pakis
+485,Warung Nyaman,Wonocolo | Indonesia,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Siwalankerto Selatan No. 5C, Wonocolo, Surabaya",/restaurants/surabaya/warung-nyaman-wonocolo
+486,Chatime Atealier,Mulyorejo | Bubble Tea,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/chatime-atealier-mulyorejo
+487,Soto Ayam Kenari,Genteng | Indonesia,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Genteng Kali No. 65A, Genteng, Surabaya",/restaurants/surabaya/soto-ayam-kenari-genteng
+488,Pizza Hut Delivery (PHD),Tandes,4.05 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Darmo Indah Timur Blok G No. 61B, Tandes, Surabaya",/restaurants/surabaya/pizza-hut-delivery-phd-tandes
+489,Omma Kitchen,Wonocolo | Indonesia,4.50 /5,Di bawah Rp. 50.000 /orang,"Jl. Jemur Wonosari Blok JM No. 11, Wonocolo, Surabaya",/restaurants/surabaya/omma-kitchen-wonocolo
+490,Steak Industry,Gubeng | Barat,4.50 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Nias No. 140, Gubeng, Surabaya",/restaurants/surabaya/steak-industry-gubeng
+491,Kabinet Coffee Co.,Dukuh Pakis | Kafe,4.07 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Bukit Darmo Boulevard, Dukuh Pakis, Surabaya",/restaurants/surabaya/kabinet-coffee-co-dukuh-pakis
+492,Harris Cafe - Harris Hotel & Conventions,"Gubeng | Indonesia, Barat,Jepang",4.20 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Bangka No. 8 - 18, Gubeng, Surabaya",/restaurants/surabaya/harris-cafe-harris-hotel-dan-conventions-gubeng
+493,Food Exchange - Novotel Samator Hotel,"Rungkut | Indonesia,Barat",4.07 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Kedung Baruk No. 26 - 28, Rungkut, Surabaya",/restaurants/surabaya/food-exchange-novotel-samator-hotel-rungkut
+494,VIP Coffee & Eatery,Ngagel | Kafe,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Ngagel Jaya Utara No. 112, Ngagel, Surabaya",/restaurants/surabaya/vip-coffee-dan-eatery-ngagel
+495,Pisang Ribut,Sukolilo | Snack,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Kejawan Gebang No. 7, Sukolilo, Surabaya",/restaurants/surabaya/pisang-ribut-sukolilo
+496,The Butcher Wagyu Steak,Mulyorejo | Barat,4.40 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Mulyosari BDP No. 17B, Mulyorejo, Surabaya",/restaurants/surabaya/the-butcher-wagyu-steak-mulyorejo
+497,Tetsujin,Dukuh Pakis | Jepang,4.40 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. HR Muhammad No. 24, Dukuh Pakis, Surabaya",/restaurants/surabaya/tetsujin-dukuh-pakis
+498,Gokana,Wonokromo | Jepang,4.13 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/gokana-wonokromo
+499,Starbucks,Wonocolo | Kafe,4.40 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Jemursari No. 134, Wonocolo, Surabaya",/restaurants/surabaya/starbucks-wonocolo-2
+500,Cincau Station,Tandes | Minuman,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Grand Banjar Boulevard, Tandes, Surabaya",/restaurants/surabaya/cincau-station-tandes
+501,Fortunate Coffee,Sambikerep | Kafe,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Puspa Raya Blok B No. 19, Sambikerep, Surabaya",/restaurants/surabaya/fortunate-coffee-sambikerep
+502,Aneka Makanan Warung Curhat,Genteng | Indonesia,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. BKR Pelajar No. 32, Genteng, Surabaya",/restaurants/surabaya/aneka-makanan-warung-curhat-genteng
+503,Yoshinoya,Tenggilis Mejoyo | Jepang,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Jemursari No A41, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/yoshinoya-tenggilis-mejoyo
+504,Hansari Son Ga,Dukuh Pakis | Korea,4.40 /5,Di atas Rp. 200.000 /orang,"Jl. HR Muhammad No. 26, Dukuh Pakis, Surabaya",/restaurants/surabaya/hansari-son-ga-dukuh-pakis
+505,Excelso,Wonocolo | Kafe,4.40 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Margorejo Indah No. 97 - 99, Wonocolo, Surabaya",/restaurants/surabaya/excelso-wonocolo
+506,H. Subali Raja Sate,Rungkut | Indonesia,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 541, Rungkut, Surabaya",/restaurants/surabaya/h-subali-raja-sate-rungkut
+507,Mandalika Cafe,Gayungan | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Gayung Kebonsari No. 36, Gayungan, Surabaya",/restaurants/surabaya/mandalika-cafe-gayungan
+508,The Duck King,Mulyorejo | China,4.30 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/the-duck-king-mulyorejo
+509,Ayam Geprek Moome,Gubeng | Indonesia,4.50 /5,Di bawah Rp. 50.000 /orang,"Jl. Gubeng Jaya I No. 35, Gubeng, Surabaya",/restaurants/surabaya/ayam-geprek-moome-gubeng
+510,Lodji Besar,Genteng | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Makam Peneleh No. 46, Genteng, Surabaya",/restaurants/surabaya/lodji-besar-genteng
+511,Sitara Indian Cuisine,Wonokromo | India,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Hayam Wuruk No. 54A, Wonokromo, Surabaya",/restaurants/surabaya/sitara-indian-cuisine-wonokromo
+512,Vilo Gelato,Lakarsantri | Kafe,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Telaga Utama No. 35 - 36, Lakarsantri, Surabaya",/restaurants/surabaya/vilo-gelato-lakarsantri
+513,Mie Murtika,Gubeng | Indonesia,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Barata Jaya No. 35, Gubeng, Surabaya",/restaurants/surabaya/mie-murtika-gubeng
+514,Bebek Goreng H. Slamet,Kayoon | Indonesia,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Kayoon No. 19, Kayoon, Surabaya",/restaurants/surabaya/bebek-goreng-h-slamet-kayoon
+515,PSI Patisserie,Genteng | Kafe,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Embong Kemiri No. 15, Genteng, Surabaya",/restaurants/surabaya/psi-patisserie-genteng
+516,Warung Pojok Umik,Gubeng | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Kaliwaron No. 306, Gubeng, Surabaya",/restaurants/surabaya/warung-pojok-umik-gubeng
+517,Sego Bedjo,Manyar,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Manyar Kertoarjo V No. 2, Manyar, Surabaya",/restaurants/surabaya/sego-bedjo-manyar
+518,Resto Alami,Karang Pilang | Indonesia,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Mastrip No. 322 - 324, Karang Pilang, Surabaya",/restaurants/surabaya/resto-alami-karang-pilang
+519,Pocoyo,Tegalsari | Waffle,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat, Tegalsari, Surabaya",/restaurants/surabaya/pocoyo-tegalsari-3
+520,Ayam Besek Bu Tutiek,Simokerto | Indonesia,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Gembong No. 20 - 30, Simokerto, Surabaya",/restaurants/surabaya/ayam-besek-bu-tutiek-simokerto
+521,Cincau Station,Ngagel | Minuman,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Ngagel No. 137 - 141, Ngagel, Surabaya",/restaurants/surabaya/cincau-station-ngagel-2
+522,Kota Lama Kuliner Beverages,Mulyorejo | Minuman,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Babatan Pantai Utara II No. 3 - 3A, Mulyorejo, Surabaya",/restaurants/surabaya/kota-lama-kuliner-beverages-mulyorejo
+523,Pangsit Mie Ayam Simpang Super,Dukuh Pakis | Indonesia,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Simpang Darmo Permai Selatan No. 15, Dukuh Pakis, Surabaya",/restaurants/surabaya/pangsit-mie-ayam-simpang-super-dukuh-pakis
+524,Kopi Kenangan,Sambikerep | Kafe,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/kopi-kenangan-sambikerep
+525,Kopi Sae,Wonocolo | Indonesia,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Margorejo Indah No. 134A, Wonocolo, Surabaya",/restaurants/surabaya/kopi-sae-wonocolo
+526,Urban Latte,Gubeng | Kafe,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Bali No. 23, Gubeng, Surabaya",/restaurants/surabaya/urban-latte-gubeng
+527,Bebek Joss Gandos,Tenggilis Mejoyo | Indonesia,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Jemursari No. 15AB, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/bebek-joss-gandos-tenggilis-mejoyo
+528,Kopi Kenangan,Genteng | Kafe,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Pemuda No. 72, Genteng, Surabaya",/restaurants/surabaya/kopi-kenangan-genteng
+529,Mungil THR,Pucang Sewu | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Pucang Anom Timur No. 8F, Pucang Sewu, Surabaya",/restaurants/surabaya/mungil-thr-pucang-sewu
+530,Kopi Gober,Tenggilis Mejoyo | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Panjang Jiwo Permai, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/kopi-gober-tenggilis-mejoyo
+531,Pizza Place,Tegalsari | Italia,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Untung Suropati No. 84, Tegalsari, Surabaya",/restaurants/surabaya/pizza-place-tegalsari
+532,COCO Bar,Dukuh Pakis | Kafe,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/coco-bar-dukuh-pakis
+533,Depot Vegetarian Sehat,Bubutan | Vegetarian,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Pasar Besar Wetan No. 3, Bubutan, Surabaya",/restaurants/surabaya/depot-vegetarian-sehat-bubutan
+534,Depot Bedjo,Gubeng | China,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada No. 36C, Gubeng, Surabaya",/restaurants/surabaya/depot-bedjo-gubeng
+535,X.O Grand Ballroom,Dukuh Pakis | China,4.07 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Kupang Indah No. 15, Dukuh Pakis, Surabaya",/restaurants/surabaya/x-o-grand-ballroom-dukuh-pakis
+536,Warung Sego Maduro Suramadu,Bubutan | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Demak No. 304, Bubutan, Surabaya",/restaurants/surabaya/warung-sego-maduro-suramadu-bubutan
+537,Djayakarta Ayam Goreng,Bubutan | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Tidar No. 91N, Bubutan, Surabaya",/restaurants/surabaya/djayakarta-ayam-goreng-bubutan
+538,Depot Pak Umbar,Ngagel | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Jaya Tengah, Ngagel, Surabaya",/restaurants/surabaya/depot-pak-umbar-ngagel
+539,Hai Nan Restaurant,Bubutan | China,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Pahlawan No. 91A - 93B, Bubutan, Surabaya",/restaurants/surabaya/hai-nan-restaurant-bubutan
+540,Es Kacang Ijo Abunawas,Tegalsari | Dessert,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Dinoyo No. 126, Tegalsari, Surabaya",/restaurants/surabaya/es-kacang-ijo-abunawas-tegalsari
+541,Es Coklat Tambah Umur - Gunawangsa Merr Hotel & Apartments,Rungkut | Minuman,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kedung Baruk No. 96, Rungkut, Surabaya",/restaurants/surabaya/es-coklat-tambah-umur-gunawangsa-merr-hotel-dan-apartments-rungkut
+542,Pangsit Mie Bandung Super,Mulyorejo | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalisari Permai I, Mulyorejo, Surabaya",/restaurants/surabaya/pangsit-mie-bandung-super-mulyorejo-2
+543,Kwasong Cafe,Sambikerep | Kafe,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/kwasong-cafe-sambikerep
+544,Cak Sandy,Genteng | Indonesia,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. BKR Pelajar No. 26, Genteng, Surabaya",/restaurants/surabaya/cak-sandy-genteng
+545,Chicago's,Pabean Cantian | Es Krim,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Bunguran No. 45, Pabean Cantian, Surabaya",/restaurants/surabaya/chicago-s-pabean-cantian
+546,D'Nyonya,Dukuh Pakis | Indonesia,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kupang Indah No. 51, Dukuh Pakis, Surabaya",/restaurants/surabaya/d-nyonya-dukuh-pakis
+547,Sate Ayam Pak Mat,Tambaksari | Indonesia,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Tapak Siring No. 1, Tambaksari, Surabaya",/restaurants/surabaya/sate-ayam-pak-mat-tambaksari-2
+548,Cake Boss,Ngagel | Toko Roti dan Kue,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Krukah Utara No. 68, Ngagel, Surabaya",/restaurants/surabaya/cake-boss-ngagel
+549,Warung Empal Bu Yudi,Tambaksari | Indonesia,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Kapas Krampung No. 220, Tambaksari, Surabaya",/restaurants/surabaya/warung-empal-bu-yudi-tambaksari
+550,Guri Ramen,Mulyorejo | Jepang,4.07 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Mulyosari No. 92, Mulyorejo, Surabaya",/restaurants/surabaya/guri-ramen-mulyorejo
+551,Hops Kopi,Tegalsari | Kafe,4.07 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Sriwijaya No. 25, Tegalsari, Surabaya",/restaurants/surabaya/hops-kopi-tegalsari
+552,Feel Matcha,Wiyung | Kafe,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/feel-matcha-wiyung
+553,Depot Pak Burhan,Sukolilo | China,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Medokan Semampir AWS VII No. 9B, Sukolilo, Surabaya",/restaurants/surabaya/depot-pak-burhan-sukolilo
+554,Frut-O Gelato,Mulyorejo | Es Krim,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalisari Permai I, Mulyorejo, Surabaya",/restaurants/surabaya/frut-o-gelato-mulyorejo
+555,Kue Lumpur Madu,Genteng | Toko Kue,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Kusuma Bangsa No. 3A, Genteng, Surabaya",/restaurants/surabaya/kue-lumpur-madu-genteng
+556,BitterSweet by Najla,Sambikerep | Kafe,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/bittersweet-by-najla-sambikerep
+557,Papercup Coffee,Manyar | Kafe,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Manyar Kertoarjo No. 75, Manyar, Surabaya",/restaurants/surabaya/papercup-coffee-manyar
+558,Gong cha,Wiyung | Bubble Tea,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/gong-cha-wiyung-2
+559,Tempura High,Tegalsari | Jepang,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/tempura-high-tegalsari
+560,Redback Specialty Coffee,Dukuh Pakis | Kafe,4.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Darmo Permai Selatan No. 3, Dukuh Pakis, Surabaya",/restaurants/surabaya/redback-specialty-coffee-dukuh-pakis
+561,Warung Pak Hasyim,Gubeng | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Barata Jaya (Sebelah Hotel Narita), Gubeng, Surabaya",/restaurants/surabaya/warung-pak-hasyim-gubeng
+562,Solaria,Tandes,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Grand Banjar Boulevard, Tandes, Surabaya",/restaurants/surabaya/solaria-tandes
+563,Ayam Bakar Wong Solo,Tandes | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Grand Banjar Boulevard, Tandes, Surabaya",/restaurants/surabaya/ayam-bakar-wong-solo-tandes
+564,Cipork,Sambikerep | China,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/cipork-sambikerep
+565,Es Puter Intisari Pak Bambang,Tegalsari,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Kombes Pol. M. Duryat (Depan Dealer Isuzu), Tegalsari, Surabaya",/restaurants/surabaya/es-puter-intisari-pak-bambang-tegalsari
+566,Madampaf,Tegalsari | Toko Kue,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/madampaf-tegalsari
+567,XieXie Boba,Wonocolo | Bubble Tea,4.40 /5,Di bawah Rp. 50.000 /orang,"Jl. Siwalankerto No. 117, Wonocolo, Surabaya",/restaurants/surabaya/xiexie-boba-wonocolo
+568,Kopiganes,Sukolilo | Kafe,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Keputih Tegal Timur II No. 116, Sukolilo, Surabaya",/restaurants/surabaya/kopiganes-sukolilo
+569,Ngastina,Ngagel | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Bawean No. 20, Ngagel, Surabaya",/restaurants/surabaya/ngastina-ngagel
+570,Mie Up Ceng,Dukuh Pakis | Indonesia,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Villa Bukit Mas, Dukuh Pakis, Surabaya",/restaurants/surabaya/mie-up-ceng-dukuh-pakis
+571,Semanggi Suroboyo Masjid Al-Akbar,Jambangan | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Pagesangan, Jambangan, Surabaya",/restaurants/surabaya/semanggi-suroboyo-masjid-al-akbar-jambangan
+572,Pocoyo,Wiyung | Waffle,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/pocoyo-wiyung
+573,Narcos,Genteng | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Jimerto No. 14, Genteng, Surabaya",/restaurants/surabaya/narcos-genteng
+574,Bebek Petemon,Sukomanunggal | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Simo Kalangan No. 176, Sukomanunggal, Surabaya",/restaurants/surabaya/bebek-petemon-sukomanunggal
+575,Soto Ayam Hartono,Wonokromo | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Gunung Sari No. 52, Wonokromo, Surabaya",/restaurants/surabaya/soto-ayam-hartono-wonokromo
+576,Mie Baraccung,Pakal | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Tengger Kandangan Blok 60C No. 1, Pakal, Surabaya",/restaurants/surabaya/mie-baraccung-pakal
+577,Ichiban Sushi,Mulyorejo | Jepang,4.07 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/ichiban-sushi-mulyorejo
+578,Martabak Terang Bulan Istimewa Abdul Kadir,Tambaksari | Indonesia,4.13 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalasan, Tambaksari, Surabaya",/restaurants/surabaya/martabak-terang-bulan-istimewa-abdul-kadir-tambaksari
+579,Co.choc,Dukuh Pakis | Kafe,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Darmo Permai I No. 32, Dukuh Pakis, Surabaya",/restaurants/surabaya/co-choc-dukuh-pakis
+580,HEVN,Sambikerep | Toko Roti dan Kue,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Simpang Darmo Permai Utara No. 18, Sambikerep, Surabaya",/restaurants/surabaya/hevn-sambikerep
+581,Hoksiong Rice & Noodle,Wonocolo | China,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Margorejo Indah No. 304D, Wonocolo, Surabaya",/restaurants/surabaya/hoksiong-rice-dan-noodle-wonocolo
+582,Seblak Aulia Bandung,Gubeng | Indonesia,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Gubeng Airlangga II (Depan Indomaret), Gubeng, Surabaya",/restaurants/surabaya/seblak-aulia-bandung-gubeng
+583,Penyetan Cok,Bubutan | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Kranggan No. 8A, Bubutan, Surabaya",/restaurants/surabaya/penyetan-cok-bubutan
+584,Mie Kedondong,Sambikerep | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/mie-kedondong-sambikerep
+585,Keiu Ramen,Semolowaru | Jepang,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Nginden Semolo No. 101, Semolowaru, Surabaya",/restaurants/surabaya/keiu-ramen-semolowaru
+586,Liang Sandwich Bar,Tegalsari | Snack,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/liang-sandwich-bar-tegalsari
+587,Yoshinoya,Krembangan | Jepang,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Rajawali No. 52, Krembangan, Surabaya",/restaurants/surabaya/yoshinoya-krembangan
+588,Xiang Rui Kopitiam,Sawahan | Kafe,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Pasar Kembang No. 76, Sawahan, Surabaya",/restaurants/surabaya/xiang-rui-kopitiam-sawahan
+589,Rumah Makan Kipas,Gubeng,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Manyar No. 30, Gubeng, Surabaya",/restaurants/surabaya/rumah-makan-kipas-gubeng
+590,The Oak Tree Cafe,Dukuh Pakis | Kafe,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Darmo Permai I No. 75, Dukuh Pakis, Surabaya",/restaurants/surabaya/the-oak-tree-cafe-dukuh-pakis
+591,Pangsit Mie Nginden Raya,Sukolilo | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Nginden Raya No. 109, Sukolilo, Surabaya",/restaurants/surabaya/pangsit-mie-nginden-raya-sukolilo
+592,Depo Bebek,Sambikerep | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Jelidro Barat No. 104, Sambikerep, Surabaya",/restaurants/surabaya/depo-bebek-sambikerep
+593,SBCO - JW Marriott Hotel Surabaya,Tegalsari | Toko Roti dan Kue,4.40 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Embong Malang No. 85 - 89, Tegalsari, Surabaya",/restaurants/surabaya/sbco-jw-marriott-hotel-surabaya-tegalsari
+594,Frida,Wiyung | Kafe,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dian Istana, Wiyung, Surabaya",/restaurants/surabaya/frida-wiyung
+595,Butter King,Rungkut | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Rungkut Madya No. 155, Rungkut, Surabaya",/restaurants/surabaya/butter-king-rungkut
+596,Penyetan SS,Pucang Sewu | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Pucang Anom No. 46A, Pucang Sewu, Surabaya",/restaurants/surabaya/penyetan-ss-pucang-sewu
+597,Soto Asaka,Wonokromo | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Gunung Sari No. 53 (Area Pom Bensin), Wonokromo, Surabaya",/restaurants/surabaya/soto-asaka-wonokromo
+598,Bakso Super Malang,Dukuh Pakis | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dukuh Kupang Barat I No. 132, Dukuh Pakis, Surabaya",/restaurants/surabaya/bakso-super-malang-dukuh-pakis
+599,Ayam Goreng Asli Kalasan Tirto Martani,Tenggilis Mejoyo | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Tenggilis No. 115, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/ayam-goreng-asli-kalasan-tirto-martani-tenggilis-mejoyo
+600,Kantin Sumberrassa,Perak | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Sarwajala No. 2, Perak, Surabaya",/restaurants/surabaya/kantin-sumberrassa-perak
+601,Ayam Bakar Pak D,Gayungan | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ketintang No. 16, Gayungan, Surabaya",/restaurants/surabaya/ayam-bakar-pak-d-gayungan
+602,99 Juice & Salad,Jambangan,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Karah No. 99, Jambangan, Surabaya",/restaurants/surabaya/99-juice-dan-salad-jambangan
+603,Warung Pecel Mbak Lin,Gubeng | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Karang Menur Timur No. 27, Gubeng, Surabaya",/restaurants/surabaya/warung-pecel-mbak-lin-gubeng
+604,Dunia Rujak,Ngagel | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Tama No. 31, Ngagel, Surabaya",/restaurants/surabaya/dunia-rujak-ngagel
+605,Waroeng Canting,Gayungan | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Gayungsari Barat No. 39, Gayungan, Surabaya",/restaurants/surabaya/waroeng-canting-gayungan
+606,Sego Sambel Cak Ri,Wonokromo | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Gunung Sari No. 82, Wonokromo, Surabaya",/restaurants/surabaya/sego-sambel-cak-ri-wonokromo
+607,Sahe Cafe & Resto,Gubeng | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Barata Jaya XIX No. 56, Gubeng, Surabaya",/restaurants/surabaya/sahe-cafe-dan-resto-gubeng
+608,Chamas Brazilian Churrascharia - Vasa Hotel,Dukuh Pakis | Brasil,5.00 /5,Di atas Rp. 200.000 /orang,"Jl. HR Muhammad No. 31, Dukuh Pakis, Surabaya",/restaurants/surabaya/chamas-brazilian-churrascharia-vasa-hotel-dukuh-pakis
+609,Somay 55,Wonokromo | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/somay-55-wonokromo
+610,Warung Sumber Barokah,Bubutan | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Kranggan, Bubutan, Surabaya",/restaurants/surabaya/warung-sumber-barokah-bubutan
+611,Ronde & Angsle Pak Ndut,Wiyung | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dukuh Karangan IV, Wiyung, Surabaya",/restaurants/surabaya/ronde-dan-angsle-pak-ndut-wiyung
+612,Gepruk Geprek,Gubeng | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Karang Menjangan No. 112, Gubeng, Surabaya",/restaurants/surabaya/gepruk-geprek-gubeng-2
+613,Lontong Mie Lontong Lodeh,Jambangan | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Kb. Agung No. 3, Jambangan, Surabaya",/restaurants/surabaya/lontong-mie-lontong-lodeh-jambangan
+614,Dharmawangsa Restaurant - Singgasana Hotel Surabaya,"Dukuh Pakis | Indonesia, Barat",5.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Gunung Sari, Dukuh Pakis, Surabaya",/restaurants/surabaya/dharmawangsa-restaurant-singgasana-hotel-surabaya-dukuh-pakis
+615,STMJ Barokah (Bu Sri),Lakarsantri | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Menganti Lidah Kulon No. 9, Lakarsantri, Surabaya",/restaurants/surabaya/stmj-barokah-bu-sri-lakarsantri
+616,Get Tea,Rungkut | Minuman,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 479, Rungkut, Surabaya",/restaurants/surabaya/get-tea-rungkut
+617,Chris Pork House,Dukuh Pakis,5.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/chris-pork-house-dukuh-pakis-2
+618,Kopi Bujend,Gubeng | Kafe,5.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Utara No. 11, Gubeng, Surabaya",/restaurants/surabaya/kopi-bujend-gubeng
+619,Donat Bahagia,Sambikerep | Kafe,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Puspa Raya, Sambikerep, Surabaya",/restaurants/surabaya/donat-bahagia-sambikerep
+620,Hedon Estate,Ngagel | Barat,5.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Ngagel Timur No. 23, Ngagel, Surabaya",/restaurants/surabaya/hedon-estate-ngagel
+621,Sate Khas Senayan,Tegalsari | Indonesia,5.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/sate-khas-senayan-tegalsari
+622,Ramenchan,Wiyung | Jepang,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/ramenchan-wiyung
+623,Sate Lox Lox Kawan,Wonocolo,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 73 (Pintu Selatan Maspion Square), Wonocolo, Surabaya",/restaurants/surabaya/sate-lox-lox-kawan-wonocolo
+624,Fit & Sip,Wiyung | Minuman,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/fit-dan-sip-wiyung
+625,Chikuro,Wiyung | Snack,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/chikuro-wiyung
+626,Bakmi PPKM,Sambikerep | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Puspa Raya, Sambikerep, Surabaya",/restaurants/surabaya/bakmi-ppkm-sambikerep
+627,Roti Kesayangan,Wiyung | Toko Roti,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/roti-kesayangan-wiyung
+628,Ladybee Taiyaki,Wonokromo | Snack,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/ladybee-taiyaki-wonokromo
+629,Doux Butter,Mulyorejo | Kafe,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Mulyosari No. 119, Mulyorejo, Surabaya",/restaurants/surabaya/doux-butter-mulyorejo
+630,House of Wok,"Wonocolo | China,Indonesia",5.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Margorejo Indah No. 97 - 99, Wonocolo, Surabaya",/restaurants/surabaya/house-of-wok-wonocolo-2
+631,Warung Nasi Pak Min,Ngagel | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Wasana I, Ngagel, Surabaya",/restaurants/surabaya/warung-nasi-pak-min-ngagel
+632,Soto Daging Cak Mat,Tambaksari | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ploso Baru No. 30, Tambaksari, Surabaya",/restaurants/surabaya/soto-daging-cak-mat-tambaksari
+633,Lofekofe X Kirei,Pucang Sewu | Kafe,5.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Pucang Anom Timur No. 9, Pucang Sewu, Surabaya",/restaurants/surabaya/lofekofe-x-kirei-pucang-sewu
+634,Mixue,"Semolowaru | Es Krim,Minuman",5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Nginden Semolo No. 20, Semolowaru, Surabaya",/restaurants/surabaya/mixue-semolowaru
+635,Kopi Siippp,Gubeng | Kafe,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmawangsa No. 86I, Gubeng, Surabaya",/restaurants/surabaya/kopi-siippp-gubeng
+636,Ayam Bakar Pak D,Genteng | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Kusuma Bangsa No. 102, Genteng, Surabaya",/restaurants/surabaya/ayam-bakar-pak-d-genteng
+637,Paradox Cafe,Karang Pilang | Kafe,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Mastrip No. 46G, Karang Pilang, Surabaya",/restaurants/surabaya/paradox-cafe-karang-pilang
+638,Mie Babat Jembatan Merah,Dukuh Pakis | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Darmo Permai I No. 36, Dukuh Pakis, Surabaya",/restaurants/surabaya/mie-babat-jembatan-merah-dukuh-pakis
+639,E&W Burgers,Sambikerep | Barat,5.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Taman Internasional, Sambikerep, Surabaya",/restaurants/surabaya/e-dan-w-burgers-sambikerep
+640,Distrik Metropolitan,Gubeng | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Bratang Binangun I No. 38, Gubeng, Surabaya",/restaurants/surabaya/distrik-metropolitan-gubeng
+641,Tous Les Jours,Tegalsari | Toko Roti dan Kue,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/tous-les-jours-tegalsari
+642,Istanbul Kebab,Dukuh Pakis | Arab/Timur Tengah,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Dukuh Kupang No. 34, Dukuh Pakis, Surabaya",/restaurants/surabaya/istanbul-kebab-dukuh-pakis
+643,es.teh Indonesia,Tenggilis Mejoyo | Minuman,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Tenggilis Mejoyo Blok AI No. 33 - 34, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/es-teh-indonesia-tenggilis-mejoyo
+644,Yin Taiwan Resto,Kenjeran | China,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Babatan Pantai No. 2R, Kenjeran, Surabaya",/restaurants/surabaya/yin-taiwan-resto-kenjeran
+645,Geo Fresh,Mulyorejo | Kafe,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Barat I No. 3H, Mulyorejo, Surabaya",/restaurants/surabaya/geo-fresh-mulyorejo
+646,Skup n Dough,"Sambikerep | Donat,Es Krim",5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. International Village CI No. 6, Sambikerep, Surabaya",/restaurants/surabaya/skup-n-dough-sambikerep
+647,Kopi Jiku,Wonokromo | Minuman,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Cipunegara No. 48, Wonokromo, Surabaya",/restaurants/surabaya/kopi-jiku-wonokromo
+648,Nasgor Tiarbah,Gubeng | Indonesia,5.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmawangsa No. 138, Gubeng, Surabaya",/restaurants/surabaya/nasgor-tiarbah-gubeng
+649,Nasi Goreng 69,Genteng | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Pemuda No. 27 - 31, Genteng, Surabaya",/restaurants/surabaya/nasi-goreng-69-genteng-2
+650,Gei Dan Jai,Wiyung | Waffle,4.30 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/gei-dan-jai-wiyung-1
+651,Frut-O Gelato,Wiyung | Es Krim,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/frut-o-gelato-wiyung
+652,Misong,Wiyung | Korea,4.07 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/misong-wiyung
+653,Krave For More,Sukomanunggal | Salad,4.30 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Bukit Darmo Golf Blok R No. 5, Sukomanunggal, Surabaya",/restaurants/surabaya/krave-for-more-sukomanunggal
+654,Depot Hongkong,Tegalsari | China,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Kedungdoro Blok B No. 36 - 46, Tegalsari, Surabaya",/restaurants/surabaya/depot-hongkong-tegalsari
+655,Ikan Bakar Panorama,Ngagel | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Ngagel No. 15, Ngagel, Surabaya",/restaurants/surabaya/ikan-bakar-panorama-ngagel
+656,Nasi Bebek Goreng Purnama,Tegalsari | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Dinoyo No. 99, Tegalsari, Surabaya",/restaurants/surabaya/nasi-bebek-goreng-purnama-tegalsari
+657,Fajar Restaurant,Manyar | China,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Manyar Kertoarjo V No. 45 - 47, Manyar, Surabaya",/restaurants/surabaya/fajar-restaurant-manyar
+658,Ninety Nine Kitchen,"Tegalsari | Indonesia,Barat,Italia",4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Basuki Rahmat No. 16 - 18, Tegalsari, Surabaya",/restaurants/surabaya/ninety-nine-kitchen-tegalsari
+659,Aucafe Specialty Coffee,Manyar | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Manyar Kertoarjo III No. 9, Manyar, Surabaya",/restaurants/surabaya/aucafe-specialty-coffee-manyar
+660,Marugame Udon,Wonokromo | Jepang,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/marugame-udon-wonokromo-2
+661,IT Bowl,Sambikerep | Hawaii,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Taman Gapura Barat Blok E2 No. 7, Sambikerep, Surabaya",/restaurants/surabaya/it-bowl-sambikerep
+662,Excelso,Genteng | Kafe,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Panglima Sudirman No. 47 - 49, Genteng, Surabaya",/restaurants/surabaya/excelso-genteng
+663,Milkgoo,Tandes | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Manukan Tama Blok 2H No. 17, Tandes, Surabaya",/restaurants/surabaya/milkgoo-tandes
+664,Mr. Coffee Indonesia,Kayoon | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Kayoon No. 5, Kayoon, Surabaya",/restaurants/surabaya/mr-coffee-indonesia-kayoon
+665,Soto Asaka,Perak | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Perak Timur No. 38, Perak, Surabaya",/restaurants/surabaya/soto-asaka-perak
+666,Sari Laut Pak Ji,Genteng | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Undaan Wetan No. 41, Genteng, Surabaya",/restaurants/surabaya/sari-laut-pak-ji-genteng
+667,Harris Cafe - Harris Hotel & Conventions Bundaran Satelit,"Dukuh Pakis | Indonesia,Barat",4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. HR Muhammad No. 2A, Dukuh Pakis, Surabaya",/restaurants/surabaya/harris-cafe-harris-hotel-dan-conventions-bundaran-satelit-dukuh-pakis
+668,Higa Asian Eatery,Sukomanunggal | Kafe,4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Raya Kupang Baru No. 27, Sukomanunggal, Surabaya",/restaurants/surabaya/higa-asian-eatery-sukomanunggal
+669,Starbucks,Ngagel | Kafe,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Ngagel Jaya Selatan No. 153, Ngagel, Surabaya",/restaurants/surabaya/starbucks-ngagel
+670,Ayam Goreng & Ikan Bakar Bu Cokro,Gubeng | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada No. 190, Gubeng, Surabaya",/restaurants/surabaya/ayam-goreng-dan-ikan-bakar-bu-cokro-gubeng
+671,Midnight Baker,Wiyung | Toko Roti,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Kampus Unesa, Wiyung, Surabaya",/restaurants/surabaya/midnight-baker-wiyung
+672,Burgushi - Cleo Hotel Jemursari,Wonocolo | Jepang,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Jemursari No. 157, Wonocolo, Surabaya",/restaurants/surabaya/burgushi-cleo-hotel-jemursari-wonocolo
+673,Nasi Babat Pak Lurah,Sawahan | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Arjuno, Sawahan, Surabaya",/restaurants/surabaya/nasi-babat-pak-lurah-sawahan
+674,Bakwan Babi Karunia,Dukuh Pakis | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kupang Indah No. 41, Dukuh Pakis, Surabaya",/restaurants/surabaya/bakwan-babi-karunia-dukuh-pakis
+675,A&W,Wonocolo,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jend. A. Yani No. 73 , Wonocolo, Surabaya",/restaurants/surabaya/a-dan-w-wonocolo
+676,The Rocketman Coffee,Gayungan | Minuman,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ketintang Baru Selatan I Blok A3 No. 3, Gayungan, Surabaya",/restaurants/surabaya/the-rocketman-coffee-gayungan
+677,MangGang,Wiyung | Korea,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/manggang-wiyung
+678,La Patisserie - Sheraton Surabaya Hotel & Towers,Tegalsari | Toko Roti dan Kue,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Embong Malang No. 25 - 31, Tegalsari, Surabaya",/restaurants/surabaya/la-patisserie-sheraton-surabaya-hotel-dan-towers-tegalsari
+679,209 Dining - Vasa Hotel,"Dukuh Pakis | Barat,Indonesia",4.20 /5,Di atas Rp. 200.000 /orang,"Jl. HR Muhammad No. 31, Dukuh Pakis, Surabaya",/restaurants/surabaya/209-dining-vasa-hotel-dukuh-pakis
+680,Ichiban Sushi,Wonokromo | Jepang,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/ichiban-sushi-wonokromo-2
+681,Sari Laut Cak Aris,Ngagel | Indonesia,4.80 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Ngagel Jaya Selatan No. 15G, Ngagel, Surabaya",/restaurants/surabaya/sari-laut-cak-aris-ngagel
+682,Mie Ayam Dasyat,Semolowaru | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Nginden Semolo No. 26, Semolowaru, Surabaya",/restaurants/surabaya/mie-ayam-dasyat-semolowaru
+683,Loowe,Dukuh Pakis | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Villa Bukit Mas, Dukuh Pakis, Surabaya",/restaurants/surabaya/loowe-dukuh-pakis
+684,Warung Bu Hj. Sani,Bubutan | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Semarang No. 146, Bubutan, Surabaya",/restaurants/surabaya/warung-bu-hj-sani-bubutan
+685,Teh Cap Poci,Rungkut | Minuman,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kalirungkut No. 25, Rungkut, Surabaya",/restaurants/surabaya/teh-cap-poci-rungkut-2
+686,Warung Bu Sri,Gubeng | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmawangsa No. 48A, Gubeng, Surabaya",/restaurants/surabaya/warung-bu-sri-gubeng
+687,Nordic Coffee,Ngagel | Kafe,4.80 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Ngagel No. 123, Ngagel, Surabaya",/restaurants/surabaya/nordic-coffee-ngagel
+688,Keyko Seafood,Tegalsari | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Kombes Pol. M. Duryat No. 33, Tegalsari, Surabaya",/restaurants/surabaya/keyko-seafood-tegalsari
+689,Jian Kang,Wiyung | Dessert,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Kampus Unesa, Wiyung, Surabaya",/restaurants/surabaya/jian-kang-wiyung-2
+690,A&W,Semolowaru,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Nginden Semolo No. 98, Semolowaru, Surabaya",/restaurants/surabaya/a-dan-w-semolowaru
+691,KFC,Tegalsari,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/kfc-tegalsari-1
+692,Be Pasta,Genteng | Italia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. BKR Pelajar No. 34, Genteng, Surabaya",/restaurants/surabaya/be-pasta-genteng
+693,Mie Ayam Lada Hitam,Tegalsari | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Lusi No. 7, Tegalsari, Surabaya",/restaurants/surabaya/mie-ayam-lada-hitam-tegalsari
+694,Cipork,Mulyorejo | China,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Mulyosari No. 200, Mulyorejo, Surabaya",/restaurants/surabaya/cipork-mulyorejo
+695,Mie Pitik Bang Azzat,Dukuh Pakis | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo No. 40, Dukuh Pakis, Surabaya",/restaurants/surabaya/mie-pitik-bang-azzat-dukuh-pakis
+696,Gloria Noodle House,Wiyung | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/gloria-noodle-house-wiyung
+697,Gerai Ayam Bakar Taliwang (Sasak Tulen),Rungkut | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Rungkut Mejoyo Utara Blok AJ No. 1, Rungkut, Surabaya",/restaurants/surabaya/gerai-ayam-bakar-taliwang-sasak-tulen-rungkut
+698,Pangsit Mie Ayam Jakarta Pak Ndut,Tambaksari | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Ploso Baru, Tambaksari, Surabaya",/restaurants/surabaya/pangsit-mie-ayam-jakarta-pak-ndut-tambaksari
+699,Teras Mertua,Dukuh Pakis | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/teras-mertua-dukuh-pakis
+700,Reddog,Tegalsari | Korea,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/reddog-tegalsari
+701,The Cakery - Java Paragon Hotel,Dukuh Pakis | Toko Kue,4.20 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Mayjen Sungkono No. 101 - 103, Dukuh Pakis, Surabaya",/restaurants/surabaya/the-cakery-java-paragon-hotel-dukuh-pakis
+702,Frangipani,Tenggilis Mejoyo | Indonesia,4.20 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Kendangsari No. 89, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/frangipani-tenggilis-mejoyo-2
+703,Maobun,Gubeng | Toko Roti,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Sumatera No. 31B, Gubeng, Surabaya",/restaurants/surabaya/maobun-gubeng
+704,Signora Pasta,Dukuh Pakis | Italia,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Kupang Indah No. 51A, Dukuh Pakis, Surabaya",/restaurants/surabaya/signora-pasta-dukuh-pakis
+705,Pangsit Mie & Bakwan Ngagel,Ngagel | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Jaya Selatan No. 147, Ngagel, Surabaya",/restaurants/surabaya/pangsit-mie-dan-bakwan-ngagel-ngagel
+706,Saigon Delight,Dukuh Pakis | Vietnam,4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Mayjend Sungkono No. 87, Dukuh Pakis, Surabaya",/restaurants/surabaya/saigon-delight-dukuh-pakis
+707,Ivy Donuts,Gayungan | Donat,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 288, Gayungan, Surabaya",/restaurants/surabaya/ivy-donuts-gayungan
+708,Padang Legenda,Wonokromo | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Kutai No. 53, Wonokromo, Surabaya",/restaurants/surabaya/padang-legenda-wonokromo
+709,Chi Fry,Dukuh Pakis | Snack,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/chi-fry-dukuh-pakis
+710,Es Teler Cak No,Krembangan,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Kepanjen No. 1 (Depan SMPN 02), Krembangan, Surabaya",/restaurants/surabaya/es-teler-cak-no-krembangan
+711,3M Makassar,Genteng | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Panglima Sudirman No. 41, Genteng, Surabaya",/restaurants/surabaya/3m-makassar-genteng
+712,Depot Icha,Sukolilo | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Arief Rahman Hakim, Sukolilo, Surabaya",/restaurants/surabaya/depot-icha-sukolilo
+713,Cossa Coffee,Mulyorejo | Kafe,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalisari Permai I, Mulyorejo, Surabaya",/restaurants/surabaya/cossa-coffee-mulyorejo
+714,Yong Luck Club,Sambikerep | China,4.80 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Taman Puspa Raya, Sambikerep, Surabaya",/restaurants/surabaya/yong-luck-club-sambikerep
+715,Second Cuts,Ngagel | Barat,4.80 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Ngagel Jaya Selatan No. 127, Ngagel, Surabaya",/restaurants/surabaya/second-cuts-ngagel
+716,Kedai 27,Genteng | Kafe,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Slamet No. 15, Genteng, Surabaya",/restaurants/surabaya/kedai-27-genteng-2
+717,Nasi Bakar Wakul Suroboyo,Wonokromo | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Indragiri No. 3, Wonokromo, Surabaya",/restaurants/surabaya/nasi-bakar-wakul-suroboyo-wonokromo
+718,Seventeen Skyview Resto & Lounge - Harris Hotel & Conventions,Gubeng | Barat,4.80 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Bangka No. 8 - 18, Gubeng, Surabaya",/restaurants/surabaya/seventeen-skyview-resto-dan-lounge-harris-hotel-dan-conventions-gubeng
+719,Warung Dulang 88,Gayungan | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Ketintang Baru XIV No. 1, Gayungan, Surabaya",/restaurants/surabaya/warung-dulang-88-gayungan
+720,Locaahands,Gubeng | Kafe,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Jawa No. 6, Gubeng, Surabaya",/restaurants/surabaya/locaahands-gubeng
+721,Lacuna,Gubeng | Kafe,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Sumatera No. 76, Gubeng, Surabaya",/restaurants/surabaya/lacuna-gubeng
+722,Depot Bu Mus,Tambaksari | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Pacar Keling No. 11A, Tambaksari, Surabaya",/restaurants/surabaya/depot-bu-mus-tambaksari
+723,Open Oven Bistro - MaxOne Hotel,Sawahan | Kafe,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Tidar No. 5, Sawahan, Surabaya",/restaurants/surabaya/open-oven-bistro-maxone-hotel-sawahan
+724,Naskun Ambon Poka,Tenggilis Mejoyo | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Tenggilis Mejoyo AI Blok G No. 10, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/naskun-ambon-poka-tenggilis-mejoyo
+725,Latarombo Riverside Cafe,Jambangan | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Ketintang Barat No. 3A, Jambangan, Surabaya",/restaurants/surabaya/latarombo-riverside-cafe-jambangan
+726,Kaopinta,Sukolilo | Minuman,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Manyar Kartika VII No. 9, Sukolilo, Surabaya",/restaurants/surabaya/kaopinta-sukolilo
+727,KOI The,Wiyung | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/koi-the-wiyung-2
+728,Soto Abas,Wonocolo | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Siwalankerto No. 7, Wonocolo, Surabaya",/restaurants/surabaya/soto-abas-wonocolo
+729,Soto Madura Sakera,Tambaksari | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ploso Bogen No. 42, Tambaksari, Surabaya",/restaurants/surabaya/soto-madura-sakera-tambaksari
+730,Depot Murah,Wonocolo | China,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Jemursari No. 5A, Wonocolo, Surabaya",/restaurants/surabaya/depot-murah-wonocolo
+731,Ventea,Tandes | Minuman,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Grand Banjar Boulevard, Tandes, Surabaya",/restaurants/surabaya/ventea-tandes
+732,Warkop Aweng,Sambikerep | Kafe,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Puri Widya Kencana Blok K1 No. 26, Sambikerep, Surabaya",/restaurants/surabaya/warkop-aweng-sambikerep
+733,Fat Bobba,Dukuh Pakis | Bubble Tea,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Abdul Wahab Siamin, Dukuh Pakis, Surabaya",/restaurants/surabaya/fat-bobba-dukuh-pakis
+734,Rawon Nguling,Wonokromo | Indonesia,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Kutai No. 34, Wonokromo, Surabaya",/restaurants/surabaya/rawon-nguling-wonokromo
+735,Suteki Sushi,Mulyorejo | Jepang,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/suteki-sushi-mulyorejo
+736,Spesial Belut Surabaya H. Poer,Sawahan | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Banyu Urip No. 139, Sawahan, Surabaya",/restaurants/surabaya/spesial-belut-surabaya-h-poer-sawahan
+737,Kawi Lounge - Sheraton Surabaya Hotel & Towers,Tegalsari | Barat,4.20 /5,Di atas Rp. 200.000 /orang,"Jl. Embong Malang No. 25 - 31, Tegalsari, Surabaya",/restaurants/surabaya/kawi-lounge-sheraton-surabaya-hotel-dan-towers-tegalsari
+738,Steak Moen - Moen,Wiyung | Barat,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/steak-moen-moen-wiyung
+739,Wok.Ku,Rungkut | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 553, Rungkut, Surabaya",/restaurants/surabaya/wok-ku-rungkut-2
+740,Lawson,Mulyorejo,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Mulyosari No. 162, Mulyorejo, Surabaya",/restaurants/surabaya/lawson-mulyorejo
+741,Cake Boss,Rungkut | Toko Roti dan Kue,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Rungkut Madya No. 119, Rungkut, Surabaya",/restaurants/surabaya/cake-boss-rungkut
+742,Nasi Padang Uda Wandi,Gubeng | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Srikana Timur No. 6, Gubeng, Surabaya",/restaurants/surabaya/nasi-padang-uda-wandi-gubeng
+743,Sate Sinar Jaya,Gubeng | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmawangsa III, Gubeng, Surabaya",/restaurants/surabaya/sate-sinar-jaya-gubeng
+744,Offle,Wiyung | Waffle,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/offle-wiyung
+745,Pepper Lunch,Gayungan | Jepang,4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Jend. A. Yani No. 260, Gayungan, Surabaya",/restaurants/surabaya/pepper-lunch-gayungan
+746,Kopi Titik Koma,Jambangan | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Ketintang Barat No. 13, Jambangan, Surabaya",/restaurants/surabaya/kopi-titik-koma-jambangan
+747,Kedai Pojok Hokky,Sukomanunggal | Kafe,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Darmo Harapan No. 1 (Samping Hokky Darmo Harapan), Sukomanunggal, Surabaya",/restaurants/surabaya/kedai-pojok-hokky-sukomanunggal
+748,Buro,Gubeng | Lounge,4.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Sumatera No. 40, Gubeng, Surabaya",/restaurants/surabaya/buro-gubeng
+749,D'Crepes,Mulyorejo | Crepes,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/d-crepes-mulyorejo
+750,Ampera Salero Minang,Tambaksari | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalasan No. 11, Tambaksari, Surabaya",/restaurants/surabaya/ampera-salero-minang-tambaksari
+751,Gaoji Chuan Shao,Dukuh Pakis | China,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/gaoji-chuan-shao-dukuh-pakis
+752,Re.Juve,Mulyorejo,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Laguna KJW Putih Tambak, Mulyorejo, Surabaya",/restaurants/surabaya/re-juve-mulyorejo
+753,Kriuk Kriuk,Tenggilis Mejoyo | Snack,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Tenggilis Mejoyo Blok AI No. 34, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/kriuk-kriuk-tenggilis-mejoyo
+754,Es Kacang Ijo Zam Zam,Wonokromo | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Bendul Merisi, Wonokromo, Surabaya",/restaurants/surabaya/es-kacang-ijo-zam-zam-wonokromo
+755,Ming Garden,Dukuh Pakis | China,4.80 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. HR Muhammad No. 19, Dukuh Pakis, Surabaya",/restaurants/surabaya/ming-garden-dukuh-pakis
+756,Coto Daeng,Genteng | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Genteng Kali No. 39, Genteng, Surabaya",/restaurants/surabaya/coto-daeng-genteng
+757,Lekker BDG,Sukomanunggal | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Bukit Darmo, Sukomanunggal, Surabaya",/restaurants/surabaya/lekker-bdg-sukomanunggal
+758,Warung SMES,Tenggilis Mejoyo | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Tenggilis Mejoyo Blok AJ No. 5, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/warung-smes-tenggilis-mejoyo
+759,Miss Poe,Sambikerep | Vietnam,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/miss-poe-sambikerep
+760,Warung Sambelan Puedes,Sawahan | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Sawahan Templek VIII No. 1, Sawahan, Surabaya",/restaurants/surabaya/warung-sambelan-puedes-sawahan
+761,Honey Pok,Simokerto | Snack,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Kapas Krampung No. 45, Simokerto, Surabaya",/restaurants/surabaya/honey-pok-simokerto
+762,Pork House 1719,Mulyorejo | China,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Mulyosari No. 149, Mulyorejo, Surabaya",/restaurants/surabaya/pork-house-1719-mulyorejo
+763,Big Wong,Wiyung | China,4.80 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/big-wong-wiyung
+764,Daidokoro,Gunung Anyar | Jepang,4.80 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Wiguna Timur XI No. 24, Gunung Anyar, Surabaya",/restaurants/surabaya/daidokoro-gunung-anyar
+765,Kurshtop,Tegalsari | Toko Roti,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Trunojoyo No. 76, Tegalsari, Surabaya",/restaurants/surabaya/kurshtop-tegalsari
+766,Kaizen BBQ Grill & Shabu - Shabu,Rungkut | Jepang,4.80 /5,Di atas Rp. 200.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 213, Rungkut, Surabaya",/restaurants/surabaya/kaizen-bbq-grill-dan-shabu-shabu-rungkut
+767,Sate Klopo Cak Iman,Ngagel | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Ngagel Jaya No. 64, Ngagel, Surabaya",/restaurants/surabaya/sate-klopo-cak-iman-ngagel
+768,d'Sruput,Tegalsari | Minuman,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Kampung Malang Tengah I No. 20, Tegalsari, Surabaya",/restaurants/surabaya/d-sruput-tegalsari
+769,Pankeki,Bubutan | Dessert,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Kranggan No. 8A, Bubutan, Surabaya",/restaurants/surabaya/pankeki-bubutan
+770,Tong's Cafe,Gubeng | Kafe,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Gubeng Kertajaya XI No. 6, Gubeng, Surabaya",/restaurants/surabaya/tong-s-cafe-gubeng
+771,Truffle Belly,Tenggilis Mejoyo,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Tenggilis No. 127, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/truffle-belly-tenggilis-mejoyo
+772,Ame Coffee,Wonokromo | Kafe,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Bungkul No. 19, Wonokromo, Surabaya",/restaurants/surabaya/ame-coffee-wonokromo
+773,Livana,Tegalsari | Toko Kue,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. R.A Kartini No. 127, Tegalsari, Surabaya",/restaurants/surabaya/livana-tegalsari
+774,Subway,Rungkut | Barat,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno, Rungkut, Surabaya",/restaurants/surabaya/subway-rungkut
+775,Lima Waktu Kopi,Rungkut | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 48, Rungkut, Surabaya",/restaurants/surabaya/lima-waktu-kopi-rungkut
+776,Foresthree,Mulyorejo | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah I Blok C1 No. 37, Mulyorejo, Surabaya",/restaurants/surabaya/foresthree-mulyorejo
+777,Pizza Hut,Manyar,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Manyar Kertoarjo No. 21, Manyar, Surabaya",/restaurants/surabaya/pizza-hut-manyar
+778,Kikil Sapi Ria Cak Ratno,Genteng | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Embong Blimbing, Genteng, Surabaya",/restaurants/surabaya/kikil-sapi-ria-cak-ratno-genteng
+779,Es Teller Baso Daging Sapi Remaja,Dukuh Pakis | Indonesia,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Sungkono No. 39A, Dukuh Pakis, Surabaya",/restaurants/surabaya/es-teller-baso-daging-sapi-remaja-dukuh-pakis
+780,Mayo Restaurant - The Alimar Premier Hotel,"Mulyorejo | Barat,Indonesia",4.80 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 134, Mulyorejo, Surabaya",/restaurants/surabaya/mayo-restaurant-the-alimar-premier-hotel-mulyorejo
+781,Manna Kopi,Wonokromo | Minuman,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Diponegoro No. 127 I, Wonokromo, Surabaya",/restaurants/surabaya/manna-kopi-wonokromo
+782,Ramen Level Up,Tenggilis Mejoyo | Jepang,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Tenggilis Mejoyo Blok G No. 6, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/ramen-level-up-tenggilis-mejoyo
+783,UV Cold Brew,Lakarsantri | Kafe,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Telaga Utama No. 9, Lakarsantri, Surabaya",/restaurants/surabaya/uv-cold-brew-lakarsantri
+784,Urban Wagyu,Dukuh Pakis | Barat,4.80 /5,Di atas Rp. 200.000 /orang,"Jl. Mayjen Yono Soewoyo No. 17, Dukuh Pakis, Surabaya",/restaurants/surabaya/urban-wagyu-dukuh-pakis
+785,Peck'o,Sambikerep | Snack,4.80 /5,Di bawah Rp. 50.000 /orang,"Jl. Puri Widya Kencana (Depan Alfamidi), Sambikerep, Surabaya",/restaurants/surabaya/peck-o-sambikerep
+786,Confera Social Eatery,Lakarsantri | Indonesia,4.80 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puri Widya Kencana Blok LL No. 3, Lakarsantri, Surabaya",/restaurants/surabaya/confera-social-eatery-lakarsantri
+787,Aice Ice Cream,Rungkut | Es Krim,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Rungkut Madya No. 241 (Depan UPN), Rungkut, Surabaya",/restaurants/surabaya/aice-ice-cream-rungkut
+788,Pentol Gilaaa,Gubeng | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Gubeng Airlangga II No. 9, Gubeng, Surabaya",/restaurants/surabaya/pentol-gilaaa-gubeng-2
+789,Nai Mong,Wiyung | Thailand,4.20 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/nai-mong-wiyung
+790,Gore Gore,Mulyorejo | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Laguna KJW Putih Tambak, Mulyorejo, Surabaya",/restaurants/surabaya/gore-gore-mulyorejo
+791,Sopeso By JX,Wonocolo | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 99, Wonocolo, Surabaya",/restaurants/surabaya/sopeso-by-jx-wonocolo
+792,Sat & Sun,Ngagel | Barat,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Bawean No. 37, Ngagel, Surabaya",/restaurants/surabaya/sat-dan-sun-ngagel
+793,Tip Top Spesial Nasi Timbel,Simokerto | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Gembong No. 20 - 30, Simokerto, Surabaya",/restaurants/surabaya/tip-top-spesial-nasi-timbel-simokerto
+794,Klepon Porong Raja Rasa Bu Nanik,Genteng | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Apsari, Genteng, Surabaya",/restaurants/surabaya/klepon-porong-raja-rasa-bu-nanik-genteng
+795,Pawon Alit,Tegalsari | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Kedungsari No. 8B, Tegalsari, Surabaya",/restaurants/surabaya/pawon-alit-tegalsari
+796,Terang Bulan Volcano,Sambikerep | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/terang-bulan-volcano-sambikerep
+797,Tahu Campur Nginden,Gubeng | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Nginden, Gubeng, Surabaya",/restaurants/surabaya/tahu-campur-nginden-gubeng
+798,Shaburi & Kintan Buffet,Tegalsari | Jepang,4.60 /5,Di atas Rp. 200.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/shaburi-dan-kintan-buffet-tegalsari
+799,Kopi Kenangan,Kertajaya | Kafe,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Kertajaya Indah, Kertajaya, Surabaya",/restaurants/surabaya/kopi-kenangan-kertajaya
+800,Ho Ciak,Lakarsantri | China,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Villa Taman Telaga Blok TJ1 No. 43, Lakarsantri, Surabaya",/restaurants/surabaya/ho-ciak-lakarsantri
+801,Newton Chinese & Seafood,Rungkut | China,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Rungkut Asri XII No. 18A, Rungkut, Surabaya",/restaurants/surabaya/newton-chinese-dan-seafood-rungkut
+802,Uppercut Steakhouse - JW Marriott Hotel Surabaya,Tegalsari | Barat,4.60 /5,Di atas Rp. 200.000 /orang,"Jl. Embong Malang No. 85 - 89, Tegalsari, Surabaya",/restaurants/surabaya/uppercut-steakhouse-jw-marriott-hotel-surabaya-tegalsari
+803,Toby's Fried Chicken,Gubeng,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Kusuma Bangsa No. 22, Gubeng, Surabaya",/restaurants/surabaya/toby-s-fried-chicken-gubeng
+804,Depot Permai,Dukuh Pakis | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Darmo Permai II No. 56 Kav. 11, Dukuh Pakis, Surabaya",/restaurants/surabaya/depot-permai-dukuh-pakis
+805,Yattako,Mulyorejo | Jepang,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/yattako-mulyorejo
+806,Sushi Toku,Dukuh Pakis | Jepang,4.00 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Mayjend Yono Soewoyo Kav. 6H - J, Dukuh Pakis, Surabaya",/restaurants/surabaya/sushi-toku-dukuh-pakis
+807,Seafood Kalimantan,Lakarsantri | Indonesia,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Telaga Utama No. 25, Lakarsantri, Surabaya",/restaurants/surabaya/seafood-kalimantan-lakarsantri
+808,Yakiniku Like,Gayungan | Jepang,4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Jend. A. Yani No. 260, Gayungan, Surabaya",/restaurants/surabaya/yakiniku-like-gayungan
+809,Moeng Kopi,Rungkut | Kafe,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Medokan Ayu Blok MA IIID No. 35, Rungkut, Surabaya",/restaurants/surabaya/moeng-kopi-rungkut-2
+810,De Mandailing Cafe N Eatery,Rungkut | Kafe,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 414, Rungkut, Surabaya",/restaurants/surabaya/de-mandailing-cafe-n-eatery-rungkut
+811,Rasa Rakyat,Wonocolo | Indonesia,4.10 /5,Di bawah Rp. 50.000 /orang,"Jl. Siwalankerto, Wonocolo, Surabaya",/restaurants/surabaya/rasa-rakyat-wonocolo
+812,Mie Hakka,Mulyorejo | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalijudan Asri No. 4, Mulyorejo, Surabaya",/restaurants/surabaya/mie-hakka-mulyorejo-2
+813,Hisana Fried Chicken,Sawahan,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Pacuan Kuda, Sawahan, Surabaya",/restaurants/surabaya/hisana-fried-chicken-sawahan-2
+814,Depot Juang 45,Rungkut | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Dr. Ir. H. Soekarno No. 479, Rungkut, Surabaya",/restaurants/surabaya/depot-juang-45-rungkut
+815,Omah Sae,Wonokromo | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Musi No. 39, Wonokromo, Surabaya",/restaurants/surabaya/omah-sae-wonokromo
+816,Allumbra Restaurant & Lounge,Ngagel | Barat,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Ngagel No. 123, Ngagel, Surabaya",/restaurants/surabaya/allumbra-restaurant-dan-lounge-ngagel
+817,Coto Makassar Ala Maya,Dukuh Pakis | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Sungkono No. 71, Dukuh Pakis, Surabaya",/restaurants/surabaya/coto-makassar-ala-maya-dukuh-pakis
+818,X.O Suki,Wiyung | China,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/x-o-suki-wiyung
+819,Wakoel Rempah,Sukolilo | Indonesia,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dr. Ir. H. Soekarno, Sukolilo, Surabaya",/restaurants/surabaya/wakoel-rempah-sukolilo
+820,Holland Bakery,Krembangan | Toko Roti dan Kue,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Indrapura No. 53A, Krembangan, Surabaya",/restaurants/surabaya/holland-bakery-krembangan
+821,Excelso,Ngagel | Kafe,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Raya Ngagel No. 123, Ngagel, Surabaya",/restaurants/surabaya/excelso-ngagel
+822,Rakki Curry House,Dukuh Pakis | Jepang,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/rakki-curry-house-dukuh-pakis
+823,Shao Kao,Dukuh Pakis | China,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. HR Muhammad No. 149, Dukuh Pakis, Surabaya",/restaurants/surabaya/shao-kao-dukuh-pakis
+824,Niku Japanese BBQ,Lakarsantri | Jepang,4.00 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Emerald Mansion Citraland, Lakarsantri, Surabaya",/restaurants/surabaya/niku-japanese-bbq-lakarsantri
+825,DnA Coffee Chapter Airlangga,Gubeng | Kafe,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Gubeng Airlangga II No. 31, Gubeng, Surabaya",/restaurants/surabaya/dna-coffee-chapter-airlangga-gubeng
+826,Isola Cafe,Dukuh Pakis | Kafe,4.10 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/isola-cafe-dukuh-pakis
+827,Cincau Station,Tenggilis Mejoyo | Minuman,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Tenggilis No. 108, Tenggilis Mejoyo, Surabaya",/restaurants/surabaya/cincau-station-tenggilis-mejoyo
+828,Kedai Bang Roy,Tegalsari | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Embong Malang No. 78H, Tegalsari, Surabaya",/restaurants/surabaya/kedai-bang-roy-tegalsari
+829,Gulo Aren,Wiyung | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Menganti, Wiyung, Surabaya",/restaurants/surabaya/gulo-aren-wiyung
+830,Depot Es Teler,Krembangan | Dessert,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Indrapura No. 1, Krembangan, Surabaya",/restaurants/surabaya/depot-es-teler-krembangan
+831,Pokok'e Kebab N Burger,Tandes | Arab/Timur Tengah,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Manukan Tengah, Tandes, Surabaya",/restaurants/surabaya/pokok-e-kebab-n-burger-tandes
+832,Soto Ayam Pak Djayus,Sukolilo | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Manyar No. 84, Sukolilo, Surabaya",/restaurants/surabaya/soto-ayam-pak-djayus-sukolilo
+833,Ayam Goreng Djakarta,Genteng | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Kapasari No. 7A, Genteng, Surabaya",/restaurants/surabaya/ayam-goreng-djakarta-genteng
+834,Ayam Gepuk Pak Mahmud,Mulyorejo | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Kalijudan, Mulyorejo, Surabaya",/restaurants/surabaya/ayam-gepuk-pak-mahmud-mulyorejo
+835,Tio Ciu,Sawahan | China,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Tidar No. 7, Sawahan, Surabaya",/restaurants/surabaya/tio-ciu-sawahan
+836,Depot Baliwerti,Mulyorejo | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/depot-baliwerti-mulyorejo
+837,Angde,Dukuh Pakis | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Mayjend Yono Soewoyo, Dukuh Pakis, Surabaya",/restaurants/surabaya/angde-dukuh-pakis
+838,O'tella,Wonokromo | Minuman,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/o-tella-wonokromo
+839,Feel Matcha,Tegalsari | Kafe,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Basuki Rahmat No. 8 - 12, Tegalsari, Surabaya",/restaurants/surabaya/feel-matcha-tegalsari
+840,Kerupuk Babi Liong,Wiyung | China,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/kerupuk-babi-liong-wiyung
+841,Mixue,"Wonokromo | Es Krim,Minuman",4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Jend. A. Yani No. 16 - 18, Wonokromo, Surabaya",/restaurants/surabaya/mixue-wonokromo
+842,Bakso Hompimpa,Dukuh Pakis | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Villa Bukit Mas No. 8D, Dukuh Pakis, Surabaya",/restaurants/surabaya/bakso-hompimpa-dukuh-pakis-2
+843,Warung Cak Wi,Wonokromo | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Bentul I, Wonokromo, Surabaya",/restaurants/surabaya/warung-cak-wi-wonokromo
+844,Sarwo Penyet,Ngagel | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Jaya Selatan, Ngagel, Surabaya",/restaurants/surabaya/sarwo-penyet-ngagel
+845,Pangsit Mie Ayam Jakarta Pak No,Pucang Sewu | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Pucang Jajar No. 21, Pucang Sewu, Surabaya",/restaurants/surabaya/pangsit-mie-ayam-jakarta-pak-no-pucang-sewu
+846,Ketoprak Sedap Malam,Lakarsantri | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Wisma Lidah Kulon (Depan Alfamart), Lakarsantri, Surabaya",/restaurants/surabaya/ketoprak-sedap-malam-lakarsantri
+847,Pangsit Mie Babat Kembang Jepun,Dukuh Pakis | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Dukuh Kupang No. 106, Dukuh Pakis, Surabaya",/restaurants/surabaya/pangsit-mie-babat-kembang-jepun-dukuh-pakis
+848,Ketan Perjuangan,Gayungan | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Ketintang No. 42, Gayungan, Surabaya",/restaurants/surabaya/ketan-perjuangan-gayungan
+849,Pojok Kanwa,Sawahan | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Kanwa No. 8, Sawahan, Surabaya",/restaurants/surabaya/pojok-kanwa-sawahan
+850,K'Zie,Wonokromo | Jepang,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Ronggowarsito (Dekat Pintu Masuk Giant Diponegoro), Wonokromo, Surabaya",/restaurants/surabaya/k-zie-wonokromo
+851,Andzero,Sukolilo | Kafe,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Nginden Intan No. 39, Sukolilo, Surabaya",/restaurants/surabaya/andzero-sukolilo
+852,Mr. Potatoes,Wiyung | Snack,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Puncak Indah Lontar No. 2, Wiyung, Surabaya",/restaurants/surabaya/mr-potatoes-wiyung
+853,Ayam Bakar Primarasa,Tegalsari | Indonesia,4.60 /5,Rp. 50.000 - Rp. 100.000 /orang,"Jl. Dr. Soetomo No. 76, Tegalsari, Surabaya",/restaurants/surabaya/ayam-bakar-primarasa-tegalsari
+854,Steak 21,Mulyorejo | Barat,4.10 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Dharmahusada Indah Timur No. 35 - 37, Mulyorejo, Surabaya",/restaurants/surabaya/steak-21-mulyorejo
+855,Bubur Ayam Jakarta 46,Sambikerep | Indonesia,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Lontar No. 210, Sambikerep, Surabaya",/restaurants/surabaya/bubur-ayam-jakarta-46-sambikerep
+856,The Lobby Lounge - Hotel Majapahit,Genteng | Barat,4.60 /5,Rp. 100.000 - Rp. 200.000 /orang,"Jl. Tunjungan No. 65, Genteng, Surabaya",/restaurants/surabaya/the-lobby-lounge-hotel-majapahit-genteng
+857,History of Jum,Benowo | Kafe,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Bringin No. 31, Benowo, Surabaya",/restaurants/surabaya/history-of-jum-benowo
+858,Breeze Bean,Sambikerep | Kafe,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Taman Puspa Raya, Sambikerep, Surabaya",/restaurants/surabaya/breeze-bean-sambikerep
+859,Jus Kode,Sambikerep | Minuman,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/jus-kode-sambikerep
+860,Amanda Brownies Kukus,Sawahan | Toko Kue,4.60 /5,Di bawah Rp. 50.000 /orang,"Jl. Blauran No. 58 - 60, Sawahan, Surabaya",/restaurants/surabaya/amanda-brownies-kukus-sawahan
+861,Nasi Bebek Goreng Cabang Purnama,Gubeng | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Bratang Jaya No. 20 (Dekat Indomaret), Gubeng, Surabaya",/restaurants/surabaya/nasi-bebek-goreng-cabang-purnama-gubeng
+862,Gado - Gado Cak Arie,Sukolilo | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Raya Sukosemolo No. 154, Sukolilo, Surabaya",/restaurants/surabaya/gado-gado-cak-arie-sukolilo
+863,Gado - Gado Jumbo Pak Tikno,Ngagel | Indonesia,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Ngagel Jaya Tengah No. 127, Ngagel, Surabaya",/restaurants/surabaya/gado-gado-jumbo-pak-tikno-ngagel-1
+864,Xiang Jia Kopitiam,Sambikerep | China,4.00 /5,Di bawah Rp. 50.000 /orang,"Jl. Niaga Gapura, Sambikerep, Surabaya",/restaurants/surabaya/xiang-jia-kopitiam-sambikerep
