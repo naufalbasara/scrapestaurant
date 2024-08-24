@@ -1,6 +1,6 @@
 import warnings
 import pygsheets
-import pandas as pd
+import pandas as pd, os
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -12,7 +12,7 @@ class GSheet():
     warnings.simplefilter('ignore', UserWarning)
 
     def __init__(self, spreadsheet_key):
-        gc = pygsheets.authorize(service_account_file='client_secret.json')
+        gc = pygsheets.authorize(service_account_file=os.path.join('./creds', 'google_creds.json'))
         self.gsh = gc.open_by_key(spreadsheet_key)
 
     def open_wks(self, worksheet_name):
